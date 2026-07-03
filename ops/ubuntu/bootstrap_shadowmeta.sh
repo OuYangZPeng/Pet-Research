@@ -4,7 +4,7 @@ set -euo pipefail
 # Bootstrap an Ubuntu server for the Shadowmeta pet-research site.
 #
 # Usage:
-#   DOMAIN=shadowmeta.com REPO_URL=git@github.com:you/research-site.git \
+#   DOMAIN=shadowmeta.com REPO_URL=git@github.com:OuYangZPeng/Pet-Research.git \
 #   bash ops/ubuntu/bootstrap_shadowmeta.sh
 #
 # Optional:
@@ -20,9 +20,10 @@ REPO_URL="${REPO_URL:-}"
 BRANCH="${BRANCH:-main}"
 ENABLE_HTTPS="${ENABLE_HTTPS:-0}"
 
-APP_ROOT="/srv/${SITE_NAME}"
-REPO_DIR="${APP_ROOT}/research-site"
-WEB_ROOT="/var/www/${SITE_NAME}"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck disable=SC1091
+source "${SCRIPT_DIR}/paths.sh"
+
 CURRENT_USER="${SUDO_USER:-$USER}"
 
 if [[ -z "${REPO_URL}" ]]; then
@@ -59,17 +60,34 @@ echo "[bootstrap] creating application directories..."
 sudo mkdir -p "${APP_ROOT}" "${WEB_ROOT}"
 sudo chown -R "${CURRENT_USER}:${CURRENT_USER}" "${APP_ROOT}" "${WEB_ROOT}"
 
-if [[ ! -d "${REPO_DIR}/.git" ]]; then
-  echo "[bootstrap] cloning repository..."
-  git clone --branch "${BRANCH}" "${REPO_URL}" "${REPO_DIR}"
+# Fresh install always uses /srv/shadowmeta/research-site
+GIT_ROOT="${APP_ROOT}/research-site"
+PROJECT_DIR="${GIT_ROOT}"
+
+if [[ -d "${GIT_ROOT}/.git" ]]; then
+  echo "[bootstrap] repository already exists at ${GIT_ROOT}; pulling latest..."
+  git -C "${GIT_ROOT}" checkout "${BRANCH}"
+  git -C "${GIT_ROOT}" pull --ff-only
 else
-  echo "[bootstrap] repository already exists; pulling latest..."
-  git -C "${REPO_DIR}" checkout "${BRANCH}"
-  git -C "${REPO_DIR}" pull --ff-only
+  if [[ -e "${GIT_ROOT}" ]]; then
+    echo "[bootstrap] ${GIT_ROOT} exists but is not a git repo."
+    echo "Remove it first, then re-run:"
+    echo "  sudo rm -rf ${GIT_ROOT}"
+    exit 1
+  fi
+  echo "[bootstrap] cloning repository into ${GIT_ROOT}..."
+  git clone --branch "${BRANCH}" "${REPO_URL}" "${GIT_ROOT}"
 fi
 
+if [[ ! -d "${PROJECT_DIR}/web" || ! -d "${PROJECT_DIR}/scraper" ]]; then
+  echo "[bootstrap] cannot find web/ and scraper/ under ${PROJECT_DIR}"
+  echo "Expected a flat repo root with web/ and scraper/."
+  exit 1
+fi
+
+echo "[bootstrap] project dir: ${PROJECT_DIR}"
 echo "[bootstrap] preparing scraper virtualenv..."
-cd "${REPO_DIR}/scraper"
+cd "${PROJECT_DIR}/scraper"
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
@@ -78,13 +96,13 @@ playwright install chromium --with-deps
 cp -n .env.example .env
 
 echo "[bootstrap] installing web dependencies..."
-cd "${REPO_DIR}/web"
+cd "${PROJECT_DIR}/web"
 npm ci
 npm run build
 rsync -a --delete dist/ "${WEB_ROOT}/"
 
 echo "[bootstrap] installing nginx config..."
-TEMPLATE="${REPO_DIR}/ops/ubuntu/shadowmeta.nginx.conf"
+TEMPLATE="${PROJECT_DIR}/ops/ubuntu/shadowmeta.nginx.conf"
 TMP_CONF="$(mktemp)"
 sed \
   -e "s|__DOMAIN__|${DOMAIN}|g" \
@@ -106,14 +124,17 @@ cat <<EOF
 
 [bootstrap] done.
 
+Git/project dir: ${PROJECT_DIR}
+Web root:        ${WEB_ROOT}
+
 Next steps:
 1. Edit scraper env:
-   nano "${REPO_DIR}/scraper/.env"
+   nano "${PROJECT_DIR}/scraper/.env"
 2. Run a manual refresh once:
-   bash "${REPO_DIR}/ops/ubuntu/refresh_shadowmeta.sh"
+   bash "${PROJECT_DIR}/ops/ubuntu/refresh_shadowmeta.sh"
 3. Install cron:
    crontab -e
    # then copy from:
-   cat "${REPO_DIR}/ops/ubuntu/shadowmeta.cron.example"
+   cat "${PROJECT_DIR}/ops/ubuntu/shadowmeta.cron.example"
 
 EOF

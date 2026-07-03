@@ -12,6 +12,7 @@ web/tsconfig.*.tsbuildinfo
 .venv/
 __pycache__/
 *.pyc
+*.egg-info/
 scraper/_out/
 scraper/.env
 .pytest_cache/

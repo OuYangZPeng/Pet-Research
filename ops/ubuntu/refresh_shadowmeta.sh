@@ -19,17 +19,29 @@ SITE_NAME="${SITE_NAME:-shadowmeta}"
 BRANCH="${BRANCH:-main}"
 VIDEO_LOOKBACK="${VIDEO_LOOKBACK:-1,2,3,all}"
 
-APP_ROOT="/srv/${SITE_NAME}"
-REPO_DIR="${APP_ROOT}/research-site"
-WEB_ROOT="/var/www/${SITE_NAME}"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck disable=SC1091
+source "${SCRIPT_DIR}/paths.sh"
+
+if [[ ! -d "${GIT_ROOT}/.git" ]]; then
+  echo "[refresh] git root not found: ${GIT_ROOT}"
+  exit 1
+fi
+
+if [[ ! -d "${PROJECT_DIR}/scraper" || ! -d "${PROJECT_DIR}/web" ]]; then
+  echo "[refresh] project dirs not found under: ${PROJECT_DIR}"
+  exit 1
+fi
+
+echo "[refresh] project dir: ${PROJECT_DIR}"
 
 echo "[refresh] updating repository..."
-cd "${REPO_DIR}"
+cd "${GIT_ROOT}"
 git checkout "${BRANCH}"
 git pull --ff-only
 
 echo "[refresh] preparing scraper env..."
-cd "${REPO_DIR}/scraper"
+cd "${PROJECT_DIR}/scraper"
 if [[ ! -d .venv ]]; then
   python3 -m venv .venv
 fi
@@ -58,7 +70,7 @@ else
 fi
 
 echo "[refresh] building frontend..."
-cd "${REPO_DIR}/web"
+cd "${PROJECT_DIR}/web"
 npm ci
 npm run build
 

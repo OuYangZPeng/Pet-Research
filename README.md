@@ -8,7 +8,7 @@ For Ubuntu deployment and cron automation, see `ops/ubuntu/README.md`.
 ## 1. What's inside
 
 ```
-research-site/
+Pet-Research/                     # git root (flat)
 ├── web/                          Static front-end (Vite + React + TS + Tailwind + Recharts + i18next)
 │   ├── src/                      Pages + components + i18n
 │   └── public/data/              ← JSON consumed by the front-end
@@ -18,6 +18,7 @@ research-site/
 │       ├── seasonality.json
 │       ├── shipping.json
 │       └── meta.json             generatedAt + scriptVersion + flat source list
+├── ops/ubuntu/                   Ubuntu deploy + cron scripts
 └── scraper/                      Python pipeline
     ├── sources/                  Per-channel scrapers (one file per source)
     │   ├── _schema.py            Pydantic models — keep in sync with web/src/lib/types.ts
