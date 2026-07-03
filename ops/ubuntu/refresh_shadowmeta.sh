@@ -49,11 +49,12 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -e .
 
+# Python jobs load .env via python-dotenv. Only pull keys this shell needs.
 if [[ -f .env ]]; then
-  set -a
-  # shellcheck disable=SC1091
-  source .env
-  set +a
+  YOUTUBE_API_KEY="$(
+    grep -E '^YOUTUBE_API_KEY=' .env | head -1 | cut -d= -f2- | sed 's/^["'\'']//; s/["'\'']$//'
+  )"
+  export YOUTUBE_API_KEY
 fi
 
 echo "[refresh] running core dataset refresh..."
