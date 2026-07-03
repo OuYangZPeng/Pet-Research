@@ -1,0 +1,62 @@
+{
+  "sku": "wellness-soft-puppy-bites",
+  "brand": "Wellness",
+  "product": "Soft Puppy Bites Lamb & Salmon Recipe (8 oz)",
+  "productZh": "幼犬软零食 羊肉三文鱼配方（8 oz）",
+  "category": "dog-treats",
+  "asin": "B0018CIS0I",
+  "totalReviews": 11200,
+  "averageRating": 4.7,
+  "pros": [
+    {
+      "theme": "Noticeable dental improvement",
+      "themeZh": "牙齿改善明显",
+      "count": 3,
+      "quote": "Tartar visibly reduced after 2 weeks of daily Greenies.",
+      "quoteRating": 5,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "cons": [
+    {
+      "theme": "Contains allergens (wheat/chicken)",
+      "themeZh": "含过敏原（小麦/鸡肉）",
+      "count": 2,
+      "quote": "Broke out in hives — turns out it has chicken meal.",
+      "quoteRating": 3,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    },
+    {
+      "theme": "Goes stale quickly once opened",
+      "themeZh": "开封后容易受潮变软",
+      "count": 1,
+      "quote": "Biscuits got soft within a week even in a sealed container.",
+      "quoteRating": 2,
+      "quoteVerified": false,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "channelBreakdown": {
+    "amazon": 5
+  },
+  "generator": "manual",
+  "lastUpdated": "2026-07-03T14:42:31Z",
+  "sourcesUsed": [
+    {
+      "label": "Amazon Wellness",
+      "url": "https://www.amazon.com/s?k=wellness+soft+puppy+bites",
+      "fetchedAt": "2026-07-03T14:42:31Z"
+    }
+  ]
+}

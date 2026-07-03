@@ -1,0 +1,62 @@
+{
+  "sku": "blue-buffalo-wilderness-trail",
+  "brand": "Blue Buffalo",
+  "product": "Wilderness Trail Treats Duck Biscuits (10 oz)",
+  "productZh": "Wilderness 鸭肉饼干零食（10 oz）",
+  "category": "dog-treats",
+  "asin": "B0037Z6VLS",
+  "totalReviews": 9800,
+  "averageRating": 4.5,
+  "pros": [
+    {
+      "theme": "Dogs go crazy for the flavor",
+      "themeZh": "狗狗超爱这个味道",
+      "count": 3,
+      "quote": "My dog does tricks before I even open the bag.",
+      "quoteRating": 5,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "cons": [
+    {
+      "theme": "Contains allergens (wheat/chicken)",
+      "themeZh": "含过敏原（小麦/鸡肉）",
+      "count": 2,
+      "quote": "Broke out in hives — turns out it has chicken meal.",
+      "quoteRating": 3,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    },
+    {
+      "theme": "Goes stale quickly once opened",
+      "themeZh": "开封后容易受潮变软",
+      "count": 1,
+      "quote": "Biscuits got soft within a week even in a sealed container.",
+      "quoteRating": 2,
+      "quoteVerified": false,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "channelBreakdown": {
+    "amazon": 5
+  },
+  "generator": "manual",
+  "lastUpdated": "2026-07-03T14:42:31Z",
+  "sourcesUsed": [
+    {
+      "label": "Amazon Blue Buffalo Treats",
+      "url": "https://www.amazon.com/s?k=blue+buffalo+wilderness+treats",
+      "fetchedAt": "2026-07-03T14:42:31Z"
+    }
+  ]
+}

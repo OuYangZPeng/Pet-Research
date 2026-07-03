@@ -1,0 +1,18 @@
+{
+  "points": [
+    { "month": "Jan", "monthZh": "1月", "demandIndex": 92, "discountPctTypical": 12, "band": "peak" },
+    { "month": "Feb", "monthZh": "2月", "demandIndex": 55, "discountPctTypical": 18, "band": "off" },
+    { "month": "Mar", "monthZh": "3月", "demandIndex": 68, "discountPctTypical": 14, "band": "shoulder" },
+    { "month": "Apr", "monthZh": "4月", "demandIndex": 62, "discountPctTypical": 12, "band": "shoulder" },
+    { "month": "May", "monthZh": "5月", "demandIndex": 65, "discountPctTypical": 10, "band": "shoulder" },
+    { "month": "Jun", "monthZh": "6月", "demandIndex": 58, "discountPctTypical": 15, "band": "off" },
+    { "month": "Jul", "monthZh": "7月", "demandIndex": 56, "discountPctTypical": 16, "band": "off" },
+    { "month": "Aug", "monthZh": "8月", "demandIndex": 60, "discountPctTypical": 14, "band": "off" },
+    { "month": "Sep", "monthZh": "9月", "demandIndex": 72, "discountPctTypical": 11, "band": "shoulder" },
+    { "month": "Oct", "monthZh": "10月", "demandIndex": 88, "discountPctTypical": 8, "band": "peak" },
+    { "month": "Nov", "monthZh": "11月", "demandIndex": 100, "discountPctTypical": 22, "band": "peak" },
+    { "month": "Dec", "monthZh": "12月", "demandIndex": 95, "discountPctTypical": 18, "band": "peak" }
+  ],
+  "insight": "US pet food demand peaks Oct–Jan: Q4 holiday gifting + treat stocking, November BFCM, and January 'health resolution' kibble switches (APPA + Chewy trend reports). Summer (Jun–Aug) is softer for impulse treats; fresh-food cold-chain costs tick up. Best promo windows: Nov (deepest discounts) and Jan–Feb (new-year diet campaigns).",
+  "insightZh": "美国犬用食品需求高峰在 10–1 月：Q4 节日送礼 + 零食囤货、11 月黑五/网一、1 月「健康决议」换粮潮（APPA + Chewy 趋势报告）。夏季（6–8 月）冲动型零食略淡，鲜食冷链成本略升。最佳促销窗口：11 月（折扣最深）和 1–2 月（新年换粮 campaign）。"
+}

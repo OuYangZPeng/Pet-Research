@@ -1,0 +1,181 @@
+[
+  {
+    "id": "zak-george",
+    "platform": "YouTube",
+    "handle": "zakgeorge",
+    "displayName": "Zak George's Dog Training Revolution",
+    "url": "https://www.youtube.com/@zakgeorge",
+    "audience": 3600000,
+    "audienceUnit": "subscribers",
+    "totalViews": 450000000,
+    "categoryFit": 10,
+    "categories": ["dog-food", "dog-treats"],
+    "notes": "Largest dog-training channel on YouTube. Regular treat reviews, kibble comparisons, and positive-reinforcement feeding demos. High trust for training-treat and mid-tier kibble recommendations.",
+    "notesZh": "YouTube 最大犬类训练频道之一。常做零食测评、狗粮对比和正向强化喂食演示，对训练零食和中端主粮推荐信任度极高。",
+    "topPieceTitle": "Best Dog Treats for Training (ranked)",
+    "topPieceUrl": "https://www.youtube.com/@zakgeorge",
+    "source": {
+      "label": "YouTube @zakgeorge (verified)",
+      "url": "https://www.youtube.com/@zakgeorge/about",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "rachel-fusaro",
+    "platform": "YouTube",
+    "handle": "RachelFusaro",
+    "displayName": "Rachel Fusaro",
+    "url": "https://www.youtube.com/@RachelFusaro",
+    "audience": 520000,
+    "audienceUnit": "subscribers",
+    "totalViews": 85000000,
+    "categoryFit": 10,
+    "categories": ["dog-food"],
+    "notes": "Dog nutrition educator focused on ingredient labels, fresh-food vs kibble, and vet-aligned feeding. Best fit for premium dog-food and DTC fresh subscriptions.",
+    "notesZh": "犬类营养教育者，专注成分表解读、鲜食 vs 干粮和兽医导向喂养方案。最匹配高端主粮和 DTC 鲜食订阅。",
+    "topPieceTitle": "Dog Food Tier List — what I actually feed my dogs",
+    "topPieceUrl": "https://www.youtube.com/@RachelFusaro",
+    "source": {
+      "label": "YouTube @RachelFusaro (verified)",
+      "url": "https://www.youtube.com/@RachelFusaro/about",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "tucker-budzyn",
+    "platform": "YouTube",
+    "handle": "tuckerbudzyn",
+    "displayName": "Tucker Budzyn",
+    "url": "https://www.youtube.com/@tuckerbudzyn",
+    "audience": 4100000,
+    "audienceUnit": "subscribers",
+    "totalViews": 1200000000,
+    "categoryFit": 9,
+    "categories": ["dog-treats"],
+    "notes": "Golden retriever lifestyle channel with massive reach. Brand collabs skew toward treats, toys, and subscription boxes (BarkBox-style). Ideal for impulse treat SKUs and gift-box promos.",
+    "notesZh": "金毛生活方式频道，流量极大。品牌合作偏向零食、玩具和订阅礼盒（BarkBox 类）。适合冲动型零食 SKU 和礼盒促销。",
+    "topPieceTitle": "Trying every viral dog treat on Amazon",
+    "topPieceUrl": "https://www.youtube.com/@tuckerbudzyn",
+    "source": {
+      "label": "YouTube @tuckerbudzyn (verified)",
+      "url": "https://www.youtube.com/@tuckerbudzyn/about",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "gone-to-the-snow-dogs",
+    "platform": "YouTube",
+    "handle": "gonetothesnowdogs",
+    "displayName": "Gone to the Snow Dogs",
+    "url": "https://www.youtube.com/@gonetothesnowdogs",
+    "audience": 1280000,
+    "audienceUnit": "subscribers",
+    "totalViews": 320000000,
+    "categoryFit": 8,
+    "categories": ["dog-food", "dog-treats"],
+    "notes": "Multi-dog husky household. Long-form kibble taste tests, treat unboxings, and Chewy haul videos. Strong mid-market pet-parent audience.",
+    "notesZh": "多犬哈士奇家庭频道。长篇狗粮试吃、零食开箱和 Chewy 购物分享，中端宠物主受众稳固。",
+    "topPieceTitle": "Chewy Dog Food Haul — taste test with the pack",
+    "topPieceUrl": "https://www.youtube.com/@gonetothesnowdogs",
+    "source": {
+      "label": "YouTube @gonetothesnowdogs (verified)",
+      "url": "https://www.youtube.com/@gonetothesnowdogs/about",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "rocky-kanaka",
+    "platform": "YouTube",
+    "handle": "RockyKanaka",
+    "displayName": "Rocky Kanaka",
+    "url": "https://www.youtube.com/@RockyKanaka",
+    "audience": 2900000,
+    "audienceUnit": "subscribers",
+    "totalViews": 680000000,
+    "categoryFit": 8,
+    "categories": ["dog-treats"],
+    "notes": "Rescue/adoption storytelling with high emotional engagement. Treat giveaways and shelter-donation campaigns convert well for gift-oriented SKUs (holiday boxes, dental chews).",
+    "notesZh": "救助/领养故事类频道，情感共鸣强。零食赠送和收容所捐赠 campaign 对礼品向 SKU（节日礼盒、洁齿零食）转化好。",
+    "topPieceTitle": "Shelter dogs try holiday treat boxes",
+    "topPieceUrl": "https://www.youtube.com/@RockyKanaka",
+    "source": {
+      "label": "YouTube @RockyKanaka (verified)",
+      "url": "https://www.youtube.com/@RockyKanaka/about",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "dogdad",
+    "platform": "TikTok",
+    "handle": "thedogdad",
+    "displayName": "The Dog Dad (Zak George)",
+    "url": "https://www.tiktok.com/@thedogdad",
+    "audience": 2100000,
+    "audienceUnit": "followers",
+    "categoryFit": 9,
+    "categories": ["dog-food", "dog-treats"],
+    "notes": "Zak George's TikTok arm — short-form treat hacks, feeding routines, and product demos. Bridges training treats to everyday kibble brands for Gen-Z pet parents.",
+    "notesZh": "Zak George 的 TikTok 矩阵 — 短视频零食技巧、喂食日常和产品演示，连接训练零食与日常主粮品牌，触达 Z 世代宠物主。",
+    "topPieceTitle": "3 treats every dog owner should try",
+    "topPieceUrl": "https://www.tiktok.com/@thedogdad",
+    "source": {
+      "label": "TikTok @thedogdad (verified)",
+      "url": "https://www.tiktok.com/@thedogdad",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "reddit-dogfood",
+    "platform": "Reddit",
+    "handle": "r/Dogfood",
+    "displayName": "r/Dogfood",
+    "url": "https://www.reddit.com/r/Dogfood/",
+    "audience": 0,
+    "audienceUnit": "followers",
+    "categoryFit": 10,
+    "categories": ["dog-food"],
+    "notes": "Dedicated dog-food subreddit. Ingredient debates, recall alerts, and brand comparison threads (Purina, Orijen, Farmer's Dog). Best organic channel for kibble positioning.",
+    "notesZh": "专注狗粮的子版。成分争论、召回预警和品牌对比帖（Purina、Orijen、Farmer's Dog）活跃，是主粮定位的最佳自然流量场域。",
+    "source": {
+      "label": "r/Dogfood (audience pending scraper)",
+      "url": "https://www.reddit.com/r/Dogfood/",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "reddit-dogs",
+    "platform": "Reddit",
+    "handle": "r/dogs",
+    "displayName": "r/dogs",
+    "url": "https://www.reddit.com/r/dogs/",
+    "audience": 0,
+    "audienceUnit": "followers",
+    "categoryFit": 8,
+    "categories": ["dog-food", "dog-treats"],
+    "notes": "General dog-owner community. Treat recommendations, picky-eater threads, and new-puppy food questions spike in Q4 adoption season.",
+    "notesZh": "综合犬主社区。零食推荐、挑食帖和新幼犬选粮问题在 Q4 领养季激增。",
+    "source": {
+      "label": "r/dogs (audience pending scraper)",
+      "url": "https://www.reddit.com/r/dogs/",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  },
+  {
+    "id": "reddit-pets",
+    "platform": "Reddit",
+    "handle": "r/Pets",
+    "displayName": "r/Pets",
+    "url": "https://www.reddit.com/r/Pets/",
+    "audience": 0,
+    "audienceUnit": "followers",
+    "categoryFit": 7,
+    "categories": ["dog-treats"],
+    "notes": "Broader pet community — good for treat gifting, dental chew debates, and subscription-box referrals. Subscriber count pending PRAW scrape.",
+    "notesZh": "更广的宠物社区 — 适合零食送礼、洁齿骨争论和订阅礼盒推荐。订阅人数等 PRAW 抓取后填充。",
+    "source": {
+      "label": "r/Pets (audience pending scraper)",
+      "url": "https://www.reddit.com/r/Pets/",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  }
+]

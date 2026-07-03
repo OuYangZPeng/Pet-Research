@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "title": "美国宠物犬食品市场调研",
+    "subtitle": "Dog Food · Dog Treats"
+  },
+  "nav": {
+    "dashboard": "总览",
+    "dogFood": "犬用主食",
+    "dogTreats": "犬用零食",
+    "painpoints": "共性痛点",
+    "seasonality": "淡旺季",
+    "influencers": "达人榜",
+    "logistics": "物流时效",
+    "methodology": "方法论"
+  },
+  "painpoints": {
+    "title": "共性痛点 Pain Points",
+    "desc": "把全部 20 个 SKU 的「痛点」主题跨品牌、跨数据源聚合，按受影响 SKU 数 + 总提及数排序，识别整个品类的系统性问题。",
+    "frequency": "按品类痛点频率",
+    "heatmap": "痛点 × SKU 热力图",
+    "details": "痛点详情卡片"
+  },
+  "common": {
+    "source": "来源",
+    "sources": "数据来源",
+    "updated": "更新于",
+    "lastFetched": "上次抓取",
+    "currency": "美元 USD",
+    "platform": "平台",
+    "median": "中位数",
+    "p25": "P25",
+    "p75": "P75",
+    "min": "最低",
+    "max": "最高",
+    "sample": "样本数",
+    "discount": "折扣",
+    "original": "原价",
+    "current": "现价",
+    "savings": "立省",
+    "category": "品类",
+    "brand": "品牌",
+    "product": "产品",
+    "price": "价格",
+    "rating": "评分",
+    "reviews": "评论数",
+    "shipping": "运费",
+    "freeShipping": "免运门槛",
+    "leadTime": "时效",
+    "warehouse": "发货地",
+    "channel": "渠道",
+    "bundle": "套装",
+    "single": "单品",
+    "tradeProgram": "工程客户计划",
+    "installTime": "安装耗时",
+    "installCost": "人工费",
+    "complexity": "难度",
+    "subscribers": "订阅数",
+    "views": "播放量",
+    "followers": "粉丝",
+    "videos": "视频",
+    "topVideo": "热门视频",
+    "openLink": "打开链接"
+  },
+  "dashboard": {
+    "title": "总览 Dashboard",
+    "intro": "针对美国市场犬用主食、犬用零食两品类的最新竞品、价格、达人、淡旺季、物流多维度对比。所有数字都附数据源链接与抓取时间戳。",
+    "kpi": {
+      "categories": "覆盖品类",
+      "competitors": "锁定竞品",
+      "creators": "重点达人",
+      "sources": "权威数据源"
+    },
+    "aovByCat": "两品类客单价区间（USD）",
+    "aovByCatDesc": "基于 Amazon BSR 宠物食品 + Chewy + DTC 当前售价。",
+    "marketSize": "美国宠物市场规模 (APPA 2025)",
+    "marketSizeValue": "1,520 亿美元",
+    "marketSizeNote": "宠物食品与零食约占 580 亿美元；犬用占宠物食品 60%+。",
+    "quickFacts": "关键数据卡片",
+    "fact1Title": "犬用主食价格带",
+    "fact1Body": "Amazon 大众干粮 $45–$85/30 磅；高端无谷 $70–$120；DTC 鲜食订阅 $2 试用 → 每天 $3–5。",
+    "fact2Title": "犬用零食价格带",
+    "fact2Body": "冲动购买 <$12（Milk-Bone、Pup-Peroni）；洁齿零食 $30–$45（Greenies 主导）；订阅礼盒 $29–$39/月。",
+    "fact3Title": "Subscribe & Save 杠杆",
+    "fact3Body": "Amazon S&S 定期订购主粮/零食享 5–15% 折扣；Chewy Autoship 第五单最高 35% off，是留存核心。",
+    "fact4Title": "宠物食品淡旺季",
+    "fact4Body": "Q4 节日送礼 + 新宠领养旺季；1 月「健康决议」换粮高峰；夏季鲜食冷链成本略升。"
+  },
+  "dogFood": {
+    "title": "犬用主食 Dog Food",
+    "desc": "覆盖 Amazon BSR 干粮 + Chewy 高端粮 + DTC 鲜食订阅，含 SKU、供应商与批发联系方式。"
+  },
+  "dogTreats": {
+    "title": "犬用零食 Dog Treats",
+    "desc": "覆盖洁齿零食、训练零食、饼干与订阅礼盒，含 SKU、供应商与批发联系方式。"
+  },
+  "sections": {
+    "competitors": "1. 竞品矩阵",
+    "creators": "2. 达人内容",
+    "aov": "3. 客单价 AI 分析",
+    "season": "4. 淡旺季",
+    "bundle": "5. 整批 vs 单卖",
+    "shipping": "6. 客单价 + 运费 + 折扣 + 时效"
+  },
+  "seasonality": {
+    "title": "淡旺季 Seasonality",
+    "desc": "美国犬用食品需求高峰在 10–1 月（节日囤货 + 换粮潮）；夏季略淡；11 月黑五折扣最深。",
+    "peakLabel": "旺季",
+    "shoulderLabel": "平季",
+    "offLabel": "淡季",
+    "demandIndex": "需求强度（相对 100）",
+    "discountDepth": "典型折扣深度"
+  },
+  "influencers": {
+    "title": "达人榜 Influencers",
+    "desc": "YouTube / TikTok / Reddit 犬类内容与营养 KOL，覆盖主粮测评、零食开箱和 r/Dogfood 社区。",
+    "platform": "平台",
+    "handle": "账号",
+    "audience": "受众规模",
+    "fitScore": "品类匹配度",
+    "topPiece": "代表作品"
+  },
+  "logistics": {
+    "title": "物流时效 Logistics",
+    "desc": "国内直邮 vs 美仓（Amazon FBA / Chewy / 冷链鲜食）全口径对比，含竞品免运门槛。",
+    "shippingThreshold": "免运门槛对比",
+    "thresholdNote": "宠物食品主流免运门槛为 $0（Prime/订阅）或 $35–$49（Chewy/Petco）。大袋主粮靠 Subscribe & Save 和 Autoship 留存，而非高门槛包邮。",
+    "modes": "运输方式时效对比",
+    "fromCN": "国内直邮",
+    "fromUS": "美仓发货",
+    "modeMethod": "方式",
+    "modeTransit": "门到门时效",
+    "modeCost": "成本范围",
+    "modeUseCase": "适用场景"
+  },
+  "methodology": {
+    "title": "方法论 & 数据来源",
+    "desc": "本站所有数据均带源链接 + 抓取时间戳，多源交叉验证；偏离 >15% 标红。",
+    "loopTitle": "Cursor 驱动的评论洞察",
+    "loopBody": "「优点 / 痛点」洞察完全跑在 Cursor 上 — 不需要任何第三方 LLM key。scraper 把每个 SKU 的 Amazon (Rainforest) + DTC (Yotpo/Shopify/Trustpilot) + Reddit (PRAW) 原始评论合并后，二选一：(a) 配了 CURSOR_API_KEY 就直接调 Cursor SDK Agent.prompt(...)，适合 cron 全自动；(b) 没配 key 就把所有 SKU 排队进 _insights_pending.md，你在 Cursor IDE 里让 agent 批量处理。两种模式用同一套 prompt 和 JSON schema，复用你已有的 Cursor 订阅，不再额外烧钱。",
+    "dataQualityTitle": "数据质量分层（重要）",
+    "dataQualityVerified": "已验证",
+    "dataQualityVerifiedDesc": "产品名、ASIN/SKU、当前售价、原价、BSR 排名、运费政策、宠物食品淡旺季先验（APPA 2025）、Zak George / Rachel Fusaro 等达人订阅数（YouTube 官方页面验证）。",
+    "dataQualityPending": "待抓取（seed 数据未填）",
+    "dataQualityPendingDesc": "评分（rating）、评论数（reviews）、Reddit 订阅人数：UI 中显示「⌛ 待抓取」标记。最便宜的验证路径是 Rainforest API（100 次/月免费，注册不要信用卡）—— 把 key 写进 scraper/.env，然后跑 python verify_asins.py 就能用「seed 数据 vs Amazon 真实数据」并排表格逐条核对。也可以接 Amazon PA-API / YouTube API / Reddit API 走 python run_all.py。",
+    "dataQualityNote": "为了避免误导，初版未验证的字段一律不填占位数字，而是显式标记「待抓取」。请在跑过抓取脚本后再引用这些字段做商业决策。",
+    "stack": "技术栈",
+    "stackItems": [
+      "前端：Vite + React + TypeScript + Tailwind + Recharts + i18next",
+      "数据层：静态 JSON（web/data/*.json），由 Python 抓取脚本回填",
+      "抓取源：Amazon Best Sellers (Playwright)、Shopify Storefront API、YouTube Data API v3、Reddit (PRAW)、Google Trends"
+    ],
+    "freq": "抓取频率",
+    "freqDesc": "默认每周一早 6:00（北京时间）跑一次，可改 cron。",
+    "limits": "已知限制",
+    "limitItems": [
+      "Amazon 反爬：需配住宅代理或 PA-API 凭证",
+      "TikTok 无官方 API，需要第三方服务（默认未启用）",
+      "Reddit 仅做热门帖采样，不做全量舆情"
+    ]
+  },
+  "reviews": {
+    "title": "用户评论洞察",
+    "pros": "优点",
+    "cons": "痛点",
+    "basedOn": "基于",
+    "reviewsUnit": "条评论",
+    "generatedBy": "生成者"
+  },
+  "lang": {
+    "switch": "EN"
+  }
+}

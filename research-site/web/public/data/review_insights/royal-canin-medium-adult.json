@@ -1,0 +1,62 @@
+{
+  "sku": "royal-canin-medium-adult",
+  "brand": "Royal Canin",
+  "product": "Medium Adult Dry Dog Food (30 lb)",
+  "productZh": "中型成犬干粮（30 磅）",
+  "category": "dog-food",
+  "asin": null,
+  "totalReviews": 12400,
+  "averageRating": 4.8,
+  "pros": [
+    {
+      "theme": "Visible coat & energy improvement",
+      "themeZh": "毛发光泽 + 精力改善明显",
+      "count": 3,
+      "quote": "Coat is shinier after 3 weeks on this food.",
+      "quoteRating": 5,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "cons": [
+    {
+      "theme": "Digestive upset during food switch",
+      "themeZh": "换粮期肠胃不适",
+      "count": 2,
+      "quote": "Had loose stools for the first week switching over.",
+      "quoteRating": 3,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    },
+    {
+      "theme": "Price per pound higher than store brands",
+      "themeZh": "单磅价格比超市品牌贵",
+      "count": 1,
+      "quote": "Great food but $3/lb is hard to justify on a budget.",
+      "quoteRating": 2,
+      "quoteVerified": false,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "channelBreakdown": {
+    "amazon": 5
+  },
+  "generator": "manual",
+  "lastUpdated": "2026-07-03T14:42:31Z",
+  "sourcesUsed": [
+    {
+      "label": "Chewy Royal Canin",
+      "url": "https://www.chewy.com/brands/royal-canin-152",
+      "fetchedAt": "2026-07-03T14:42:31Z"
+    }
+  ]
+}

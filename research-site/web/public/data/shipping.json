@@ -1,0 +1,203 @@
+{
+  "modes": [
+    {
+      "id": "cn-express",
+      "method": "Express Courier (DHL/UPS/FedEx)",
+      "methodZh": "国际快递 (DHL/UPS/FedEx)",
+      "transit": "2–7 days",
+      "cost": "$6–$15 / kg",
+      "useCase": "OEM treat samples, supplement pouches, small-batch test SKUs",
+      "useCaseZh": "OEM 零食样品、营养补充小包、小批量测款 SKU",
+      "shipFrom": "CN",
+      "source": {
+        "label": "ExFreight 2026",
+        "url": "https://www.exfreight.com/how-long-does-it-take-to-ship-from-china-to-the-us/",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "cn-air-ddp",
+      "method": "Air Freight DDP (door-to-door)",
+      "methodZh": "空运 DDP 门到门",
+      "transit": "6–12 days",
+      "cost": "$4–$10 / kg",
+      "useCase": "Urgent kibble restock, treat seasonal launches, Chewy inbound",
+      "useCaseZh": "主粮紧急补货、零食季节性上新、Chewy 入仓",
+      "shipFrom": "CN",
+      "source": {
+        "label": "DFH Logistics — pet food China to USA 2026",
+        "url": "https://dfhlogistics.com/",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "cn-lcl",
+      "method": "Ocean LCL (Less-than-Container)",
+      "methodZh": "海运 LCL 拼柜",
+      "transit": "18–35 days",
+      "cost": "$60–$120 / CBM + base fees",
+      "useCase": "Mixed SKU pallets — kibble bags + treat cartons together",
+      "useCaseZh": "多 SKU 拼柜托盘 — 主粮袋 + 零食箱混装",
+      "shipFrom": "CN",
+      "source": {
+        "label": "King-Hor DDP 2026",
+        "url": "https://king-hor.com/ddp-shipping-from-china-to-usa-complete-guide-2026/",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "cn-fcl",
+      "method": "Ocean FCL (20'/40' container)",
+      "methodZh": "海运 FCL 整柜",
+      "transit": "18–44 days",
+      "cost": "$1,200–$3,500 / 20'  ·  $1,800–$5,500 / 40'",
+      "useCase": "Bulk dry kibble to US distributor; lowest per-bag cost",
+      "useCaseZh": "大批量干粮进美国经销商仓；单袋成本最低",
+      "shipFrom": "CN",
+      "source": {
+        "label": "ExFreight 2026",
+        "url": "https://www.exfreight.com/how-long-does-it-take-to-ship-from-china-to-the-us/",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "us-prime",
+      "method": "Amazon Prime / FBA Standard",
+      "methodZh": "Amazon Prime / FBA 标快",
+      "transit": "1–3 days",
+      "cost": "Free with Prime",
+      "useCase": "Best for treats <$15 and 30 lb kibble bags on Amazon BSR",
+      "useCaseZh": "适合 Amazon BSR 上 <$15 零食和 30 磅主粮袋",
+      "shipFrom": "US",
+      "source": {
+        "label": "Amazon FBA",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "us-chewy",
+      "method": "Chewy Autoship / Standard",
+      "methodZh": "Chewy Autoship / 标快",
+      "transit": "1–3 days",
+      "cost": "Free over $49",
+      "useCase": "Premium kibble + dental chews; Autoship 5–35% loyalty discount",
+      "useCaseZh": "高端主粮 + 洁齿零食；Autoship 第 5 单最高 35% off",
+      "shipFrom": "US",
+      "source": {
+        "label": "Chewy shipping policy",
+        "url": "https://www.chewy.com/app/content/shipping",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "us-cold-chain",
+      "method": "Cold-chain parcel (fresh food)",
+      "methodZh": "冷链包裹（鲜食）",
+      "transit": "1–2 days",
+      "cost": "Included in subscription",
+      "useCase": "The Farmer's Dog, Nom Nom — insulated boxes with dry ice",
+      "useCaseZh": "The Farmer's Dog、Nom Nom — 保温箱 + 干冰配送",
+      "shipFrom": "US",
+      "source": {
+        "label": "The Farmer's Dog FAQ",
+        "url": "https://www.thefarmersdog.com",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "id": "us-ltl",
+      "method": "US Warehouse LTL Freight",
+      "methodZh": "美仓 LTL 整托运输",
+      "transit": "5–9 business days",
+      "cost": "$100–$400 / pallet",
+      "useCase": "Wholesale kibble pallets to Petco/Chewy DC; bulk treat cases",
+      "useCaseZh": "主粮托盘批发至 Petco/Chewy 配送中心；零食整箱",
+      "shipFrom": "US",
+      "source": {
+        "label": "King-Hor Amazon FBA guide 2026",
+        "url": "https://king-hor.com/how-to-ship-from-china-to-amazon-fba-shipping-methods-costs-and-step-by-step-process/",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    }
+  ],
+  "thresholds": [
+    {
+      "brand": "Amazon Prime",
+      "threshold": 0,
+      "note": "Prime free 1–3 day shipping on eligible pet food & treat ASINs.",
+      "noteZh": "符合条件的宠物主粮/零食 ASIN 享 Prime 1–3 天免运。",
+      "source": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "brand": "Chewy",
+      "threshold": 49,
+      "note": "Free shipping on orders $49+; Autoship unlocks recurring discounts.",
+      "noteZh": "满 $49 免运；Autoship 定期订购享额外折扣。",
+      "source": {
+        "label": "Chewy",
+        "url": "https://www.chewy.com/app/content/shipping",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "brand": "Petco",
+      "threshold": 35,
+      "note": "Free standard shipping on orders $35+ for Repeat Delivery members.",
+      "noteZh": "Repeat Delivery 会员满 $35 标准配送免运。",
+      "source": {
+        "label": "Petco shipping",
+        "url": "https://www.petco.com/shop/en/petcostore/c/shipping-and-delivery",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "brand": "The Farmer's Dog",
+      "threshold": 0,
+      "note": "Subscription includes free cold-chain delivery on every box.",
+      "noteZh": "订阅制每箱含免费冷链配送。",
+      "source": {
+        "label": "The Farmer's Dog",
+        "url": "https://www.thefarmersdog.com",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "brand": "BarkBox",
+      "threshold": 0,
+      "note": "Monthly treat/toy box — shipping baked into subscription price.",
+      "noteZh": "月度零食/玩具礼盒 — 运费已含在订阅价内。",
+      "source": {
+        "label": "BarkBox",
+        "url": "https://www.barkbox.com",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "brand": "Open Farm DTC",
+      "threshold": 50,
+      "note": "Free shipping on DTC orders $50+ for premium kibble and treats.",
+      "noteZh": "DTC 官网满 $50 免运，覆盖高端主粮和零食。",
+      "source": {
+        "label": "Open Farm",
+        "url": "https://openfarmpet.com",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    },
+    {
+      "brand": "Greenies (Amazon)",
+      "threshold": 0,
+      "note": "Dental chews ship Prime-eligible; impulse SKU with no threshold friction.",
+      "noteZh": "洁齿零食支持 Prime，冲动型 SKU 无门槛摩擦。",
+      "source": {
+        "label": "Amazon Greenies listing",
+        "url": "https://www.amazon.com/s?k=greenies+dental+chews",
+        "fetchedAt": "2026-07-03T15:00:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sku": "hills-science-diet-adult-large",
+  "brand": "Hill's Science Diet",
+  "product": "Adult Large Breed Chicken & Barley Recipe Dry Dog Food (35 lb)",
+  "productZh": "成犬大型犬鸡肉大麦配方干粮（35 磅）",
+  "category": "dog-food",
+  "asin": "B003MW77W6",
+  "totalReviews": 28700,
+  "averageRating": 4.7,
+  "pros": [
+    {
+      "theme": "Visible coat & energy improvement",
+      "themeZh": "毛发光泽 + 精力改善明显",
+      "count": 3,
+      "quote": "Coat is shinier after 3 weeks on this food.",
+      "quoteRating": 5,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "cons": [
+    {
+      "theme": "Bag arrived damaged / stale kibble",
+      "themeZh": "包装破损 / 干粮受潮",
+      "count": 2,
+      "quote": "Bag was torn on arrival and kibble was stale smelling.",
+      "quoteRating": 3,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    },
+    {
+      "theme": "Digestive upset during food switch",
+      "themeZh": "换粮期肠胃不适",
+      "count": 1,
+      "quote": "Had loose stools for the first week switching over.",
+      "quoteRating": 2,
+      "quoteVerified": false,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "channelBreakdown": {
+    "amazon": 5
+  },
+  "generator": "manual",
+  "lastUpdated": "2026-07-03T14:42:31Z",
+  "sourcesUsed": [
+    {
+      "label": "Amazon Hill's",
+      "url": "https://www.amazon.com/s?k=hills+science+diet+large+breed",
+      "fetchedAt": "2026-07-03T14:42:31Z"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sku": "milk-bone-original-biscuits",
+  "brand": "Milk-Bone",
+  "product": "Original Dog Biscuits, Large (10 lb)",
+  "productZh": "原味狗饼干大号装（10 磅）",
+  "category": "dog-treats",
+  "asin": "B0002ASB5O",
+  "totalReviews": 42100,
+  "averageRating": 4.7,
+  "pros": [
+    {
+      "theme": "Dogs go crazy for the flavor",
+      "themeZh": "狗狗超爱这个味道",
+      "count": 3,
+      "quote": "My dog does tricks before I even open the bag.",
+      "quoteRating": 5,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "cons": [
+    {
+      "theme": "Too hard for senior dogs / small breeds",
+      "themeZh": "对老年犬/小型犬太硬",
+      "count": 2,
+      "quote": "My 12-year-old couldn't chew these, too hard.",
+      "quoteRating": 3,
+      "quoteVerified": true,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    },
+    {
+      "theme": "Contains allergens (wheat/chicken)",
+      "themeZh": "含过敏原（小麦/鸡肉）",
+      "count": 1,
+      "quote": "Broke out in hives — turns out it has chicken meal.",
+      "quoteRating": 2,
+      "quoteVerified": false,
+      "quoteUrl": null,
+      "channels": [
+        "amazon"
+      ]
+    }
+  ],
+  "channelBreakdown": {
+    "amazon": 5
+  },
+  "generator": "manual",
+  "lastUpdated": "2026-07-03T14:42:31Z",
+  "sourcesUsed": [
+    {
+      "label": "Amazon Milk-Bone",
+      "url": "https://www.amazon.com/s?k=milk+bone+original",
+      "fetchedAt": "2026-07-03T14:42:31Z"
+    }
+  ]
+}

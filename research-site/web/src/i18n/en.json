@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "title": "US Pet Dog Food Research",
+    "subtitle": "Dog Food · Dog Treats"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "dogFood": "Dog Food",
+    "dogTreats": "Dog Treats",
+    "painpoints": "Pain Points",
+    "seasonality": "Seasonality",
+    "influencers": "Influencers",
+    "logistics": "Logistics",
+    "methodology": "Methodology"
+  },
+  "painpoints": {
+    "title": "Cross-SKU Pain Points",
+    "desc": "Aggregates the 'cons' themes from all 20 reviewed SKUs into category-level buckets. Ranked by # of SKUs affected to surface systemic issues across the whole category.",
+    "frequency": "Pain-point frequency by category",
+    "heatmap": "Pain-point × SKU heatmap",
+    "details": "Detail cards"
+  },
+  "common": {
+    "source": "Source",
+    "sources": "Sources",
+    "updated": "Updated",
+    "lastFetched": "Last fetched",
+    "currency": "USD",
+    "platform": "Platform",
+    "median": "Median",
+    "p25": "P25",
+    "p75": "P75",
+    "min": "Min",
+    "max": "Max",
+    "sample": "Samples",
+    "discount": "Discount",
+    "original": "MSRP",
+    "current": "Price",
+    "savings": "Save",
+    "category": "Category",
+    "brand": "Brand",
+    "product": "Product",
+    "price": "Price",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "shipping": "Shipping",
+    "freeShipping": "Free shipping over",
+    "leadTime": "Lead time",
+    "warehouse": "Ships from",
+    "channel": "Channel",
+    "bundle": "Bundle",
+    "single": "Single",
+    "tradeProgram": "Trade program",
+    "installTime": "Install time",
+    "installCost": "Labor cost",
+    "complexity": "Difficulty",
+    "subscribers": "Subscribers",
+    "views": "Views",
+    "followers": "Followers",
+    "videos": "Videos",
+    "topVideo": "Top video",
+    "openLink": "Open link"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "intro": "Multi-dimensional research for the US pet dog food and treats market. Every figure carries a source link and fetch timestamp.",
+    "kpi": {
+      "categories": "Categories tracked",
+      "competitors": "Competitors locked",
+      "creators": "Key creators",
+      "sources": "Authoritative sources"
+    },
+    "aovByCat": "AOV range across 2 categories (USD)",
+    "aovByCatDesc": "Based on Amazon BSR pet food + Chewy + DTC current prices.",
+    "marketSize": "US pet market (APPA 2025)",
+    "marketSizeValue": "$152 B",
+    "marketSizeNote": "Pet food & treats ~$58 B; dog food is 60%+ of pet food spend.",
+    "quickFacts": "Quick facts",
+    "fact1Title": "Dog food price tiers",
+    "fact1Body": "Mass-market kibble on Amazon $45–$85/30 lb; premium grain-free $70–$120; DTC fresh subs $2 trial → $3–5/day.",
+    "fact2Title": "Dog treats price tiers",
+    "fact2Body": "Impulse buys <$12 (Milk-Bone, Pup-Peroni); dental chews $30–$45 (Greenies leads); subscription boxes $29–$39/mo.",
+    "fact3Title": "Subscribe & Save lever",
+    "fact3Body": "Amazon S&S gives 5–15% off recurring kibble/treat orders; Chewy Autoship up to 35% off on 5th order — core retention play.",
+    "fact4Title": "Pet food seasonality",
+    "fact4Body": "Q4 holiday gifting + new-pet adoption peak; January 'health resolution' food switches; summer cold-chain costs tick up for fresh."
+  },
+  "dogFood": {
+    "title": "Dog Food",
+    "desc": "Dry kibble (Amazon BSR) + premium (Chewy) + fresh DTC subscriptions — with SKU, supplier & wholesale contacts."
+  },
+  "dogTreats": {
+    "title": "Dog Treats",
+    "desc": "Dental chews, training treats, biscuits & subscription boxes — with SKU, supplier & wholesale contacts."
+  },
+  "sections": {
+    "competitors": "1. Competitor matrix",
+    "creators": "2. Creator footprint",
+    "aov": "3. AOV analysis",
+    "season": "4. Seasonality",
+    "bundle": "5. Bundle vs single",
+    "shipping": "6. AOV + shipping + discount + lead time"
+  },
+  "seasonality": {
+    "title": "Seasonality",
+    "desc": "US dog food demand peaks Oct–Jan (holiday stock-up + diet switches); summer is softer; November BFCM has the deepest discounts.",
+    "peakLabel": "Peak",
+    "shoulderLabel": "Shoulder",
+    "offLabel": "Off",
+    "demandIndex": "Demand index (100 = peak)",
+    "discountDepth": "Typical discount depth"
+  },
+  "influencers": {
+    "title": "Influencers",
+    "desc": "YouTube / TikTok / Reddit dog nutrition & lifestyle creators — kibble reviews, treat unboxings, and r/Dogfood community.",
+    "platform": "Platform",
+    "handle": "Handle",
+    "audience": "Audience",
+    "fitScore": "Category fit",
+    "topPiece": "Top piece"
+  },
+  "logistics": {
+    "title": "Logistics",
+    "desc": "Door-to-door comparison: ship-from-China vs US warehouse (Amazon FBA / Chewy / cold-chain fresh); including competitor free-shipping thresholds.",
+    "shippingThreshold": "Free-shipping threshold benchmark",
+    "thresholdNote": "Pet food norms are $0 (Prime/subscription) or $35–$49 (Chewy/Petco). Large kibble bags retain via Subscribe & Save and Autoship — not high free-shipping thresholds.",
+    "modes": "Transit mode comparison",
+    "fromCN": "From China",
+    "fromUS": "From US warehouse",
+    "modeMethod": "Method",
+    "modeTransit": "Door-to-door",
+    "modeCost": "Cost band",
+    "modeUseCase": "Use case"
+  },
+  "methodology": {
+    "title": "Methodology & Sources",
+    "desc": "Every data point on this site carries a source link + fetch timestamp; multi-source cross-validation; deltas >15% flagged.",
+    "loopTitle": "Cursor-powered review insights",
+    "loopBody": "Review pros / cons run on Cursor — no third-party LLM key required. The scraper merges raw Amazon (Rainforest) + DTC (Yotpo/Shopify/Trustpilot) + Reddit (PRAW) reviews per SKU, then either: (a) calls Cursor SDK Agent.prompt(...) directly with your CURSOR_API_KEY for cron-friendly automation, or (b) queues every SKU to _insights_pending.md so you can ask the Cursor IDE chat to batch-process them. Both modes use the same prompt + JSON schema and your existing Cursor subscription — zero extra spend.",
+    "dataQualityTitle": "Data quality tiers (important)",
+    "dataQualityVerified": "Verified",
+    "dataQualityVerifiedDesc": "Product name, ASIN/SKU, current price, MSRP, BSR rank, shipping policy, pet-food seasonality prior (APPA 2025), Zak George / Rachel Fusaro subscriber counts (verified via YouTube official pages).",
+    "dataQualityPending": "Pending scrape (not in seed)",
+    "dataQualityPendingDesc": "Rating, review count, Reddit subscriber count: shown as an ⌛ pending-scrape chip in the UI. The cheapest verified path is Rainforest API (100 requests/month free, no card required) — drop the key into scraper/.env then run python verify_asins.py for a seed-vs-live side-by-side table. Or use Amazon PA-API / YouTube API / Reddit API through python run_all.py.",
+    "dataQualityNote": "To avoid misleading numbers, the initial seed leaves unverified fields explicitly empty (marked ‘pending scrape’) rather than filling placeholder values. Run the scraper before quoting those fields in commercial decisions.",
+    "stack": "Stack",
+    "stackItems": [
+      "Frontend: Vite + React + TypeScript + Tailwind + Recharts + i18next",
+      "Data layer: static JSON (web/data/*.json), populated by Python scrapers",
+      "Sources: Amazon Best Sellers (Playwright), Shopify Storefront API, YouTube Data API v3, Reddit (PRAW), Google Trends"
+    ],
+    "freq": "Refresh cadence",
+    "freqDesc": "Default cron: Mondays 06:00 (Beijing) — adjustable.",
+    "limits": "Known limitations",
+    "limitItems": [
+      "Amazon anti-bot: residential proxies or PA-API credentials required",
+      "TikTok has no official API; third-party service needed (disabled by default)",
+      "Reddit sampling only; not full sentiment coverage"
+    ]
+  },
+  "reviews": {
+    "title": "User review insights",
+    "pros": "Pros",
+    "cons": "Cons",
+    "basedOn": "Based on",
+    "reviewsUnit": "reviews",
+    "generatedBy": "by"
+  },
+  "lang": {
+    "switch": "中"
+  }
+}

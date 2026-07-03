@@ -1,0 +1,8 @@
+# Shadowmeta weekly refresh
+# Edit with: crontab -e
+#
+# Runs every Monday at 06:10 server local time.
+10 6 * * 1 /srv/shadowmeta/research-site/ops/ubuntu/refresh_shadowmeta.sh >> /var/log/shadowmeta-refresh.log 2>&1
+
+# Optional daily deploy-only pull/build/publish
+# 30 4 * * * /srv/shadowmeta/research-site/ops/ubuntu/deploy_shadowmeta.sh >> /var/log/shadowmeta-deploy.log 2>&1

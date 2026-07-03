@@ -1,0 +1,607 @@
+{
+  "category": "dog-treats",
+  "competitors": [
+    {
+      "id": "greenies-regular-dental",
+      "brand": "Greenies",
+      "product": "Regular Dental Dog Treats (36 oz / 36-count)",
+      "productZh": "Regular 洁齿狗零食（36 oz / 36 粒装）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0002AR0I8",
+      "asin": "B0002AR0I8",
+      "sku": "10100636",
+      "bsrRank": 1,
+      "price": {
+        "current": 39.98,
+        "original": 44.98,
+        "currency": "USD",
+        "discountPct": 11
+      },
+      "rating": 4.8,
+      "reviews": 89400,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping · Subscribe & Save 5%",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Greenies / Mars Petcare",
+        "companyZh": "Greenies（玛氏宠物护理）",
+        "phone": "1-800-864-6119",
+        "email": "consumerrelations@greenies.com",
+        "website": "https://www.greenies.com",
+        "wholesaleEmail": "trade@mars.com",
+        "address": "800 High St, Hackettstown, NJ 07840, USA",
+        "notes": "#1 dental treat in US; VOHC accepted; Mars manufacturing.",
+        "notesZh": "美国 #1 洁齿零食；VOHC 认证；玛氏工厂生产。"
+      },
+      "source": {
+        "label": "Amazon BSR Dog Treats",
+        "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Dog-Treats/zgbs/pet-supplies/2975481011",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "milk-bone-original-biscuits",
+      "brand": "Milk-Bone",
+      "product": "Original Dog Biscuits, Large (10 lb)",
+      "productZh": "原味狗饼干大号装（10 磅）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0002ASB5O",
+      "asin": "B0002ASB5O",
+      "sku": "MB-ORIG-10LB",
+      "bsrRank": 4,
+      "price": {
+        "current": 14.48,
+        "currency": "USD"
+      },
+      "rating": 4.7,
+      "reviews": 42100,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Milk-Bone (J.M. Smucker Company)",
+        "companyZh": "Milk-Bone（J.M. Smucker 集团）",
+        "phone": "1-888-569-6767",
+        "email": "consumerrelations@jm.com",
+        "website": "https://www.milkbone.com",
+        "wholesaleEmail": "sales@jm.com",
+        "address": "1 Strawberry Ln, Orrville, OH 44667, USA",
+        "notes": "Mass-market value leader; sold in every grocery + big-box.",
+        "notesZh": "大众市场性价比王者；全美商超 + 大卖场铺货。"
+      },
+      "source": {
+        "label": "Amazon Milk-Bone",
+        "url": "https://www.amazon.com/s?k=milk+bone+original",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "zukes-mini-naturals-peanut",
+      "brand": "Zuke's",
+      "product": "Mini Naturals Peanut Butter & Oats Training Treats (16 oz)",
+      "productZh": "Mini Naturals 花生酱燕麦训练零食（16 oz）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0018CIS0I",
+      "asin": "B0018CIS0I",
+      "sku": "ZUKE-MINI-PB-16",
+      "bsrRank": 15,
+      "price": {
+        "current": 12.99,
+        "original": 14.99,
+        "currency": "USD",
+        "discountPct": 13
+      },
+      "rating": 4.6,
+      "reviews": 18700,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Zuke's (Nestlé Purina PetCare)",
+        "companyZh": "Zuke's（雀巢普瑞纳）",
+        "phone": "1-800-778-7462",
+        "email": "contactus@purina.nestle.com",
+        "website": "https://www.zukes.com",
+        "wholesaleEmail": "purinaproplan@nestle.com",
+        "address": "1200 28th St, Durango, CO 81301, USA",
+        "notes": "Training-treat niche; low-calorie positioning; Purina acquired 2021.",
+        "notesZh": "训练零食细分；低卡定位；2021 年被普瑞纳收购。"
+      },
+      "source": {
+        "label": "Amazon Zuke's",
+        "url": "https://www.amazon.com/s?k=zukes+mini+naturals",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "blue-buffalo-wilderness-trail",
+      "brand": "Blue Buffalo",
+      "product": "Wilderness Trail Treats Duck Biscuits (10 oz)",
+      "productZh": "Wilderness 鸭肉饼干零食（10 oz）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0037Z6VLS",
+      "asin": "B0037Z6VLS",
+      "sku": "800364",
+      "bsrRank": 22,
+      "price": {
+        "current": 8.99,
+        "currency": "USD"
+      },
+      "rating": 4.5,
+      "reviews": 9800,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Blue Buffalo Company (General Mills Pet)",
+        "companyZh": "Blue Buffalo（通用磨坊宠物事业部）",
+        "phone": "1-800-919-2833",
+        "email": "consumerrelations@bluebuffalo.com",
+        "website": "https://www.bluebuffalo.com",
+        "wholesaleEmail": "sales@bluebuffalo.com",
+        "address": "300 Boston Post Rd W, Wilton, CT 06897, USA",
+        "notes": "Treat line cross-sells with Life Protection kibble.",
+        "notesZh": "零食线可与 Life Protection 主粮交叉销售。"
+      },
+      "source": {
+        "label": "Amazon Blue Buffalo Treats",
+        "url": "https://www.amazon.com/s?k=blue+buffalo+wilderness+treats",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "pup-peroni-original",
+      "brand": "Pup-Peroni",
+      "product": "Original Beef Flavor Dog Snacks (25 oz)",
+      "productZh": "原味牛肉风味狗零食（25 oz）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0002AR0I8",
+      "asin": "B000H1217Y",
+      "sku": "PP-ORIG-25",
+      "bsrRank": 9,
+      "price": {
+        "current": 11.97,
+        "currency": "USD"
+      },
+      "rating": 4.6,
+      "reviews": 22400,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Pup-Peroni (J.M. Smucker Company)",
+        "companyZh": "Pup-Peroni（J.M. Smucker 集团）",
+        "phone": "1-888-569-6767",
+        "email": "consumerrelations@jm.com",
+        "website": "https://www.pupperoni.com",
+        "wholesaleEmail": "sales@jm.com",
+        "address": "1 Strawberry Ln, Orrville, OH 44667, USA",
+        "notes": "Soft jerky-style treat; impulse-buy price point under $12.",
+        "notesZh": "软质肉干型零食；冲动购买价位低于 $12。"
+      },
+      "source": {
+        "label": "Amazon Pup-Peroni",
+        "url": "https://www.amazon.com/s?k=pup+peroni",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "smartbones-mini-peanut",
+      "brand": "SmartBones",
+      "product": "Mini Peanut Butter Chews (16-pack)",
+      "productZh": "迷你花生酱咀嚼骨（16 根装）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B00BIFNTMC",
+      "asin": "B00BIFNTMC",
+      "sku": "SB-MINI-PB-16",
+      "bsrRank": 28,
+      "price": {
+        "current": 9.99,
+        "original": 12.99,
+        "currency": "USD",
+        "discountPct": 23
+      },
+      "rating": 4.5,
+      "reviews": 15600,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "SmartBones (Spectrum Brands / PetMatrix)",
+        "companyZh": "SmartBones（Spectrum Brands / PetMatrix）",
+        "phone": "1-800-892-6978",
+        "email": "info@petmatrix.com",
+        "website": "https://www.smartbones.com",
+        "wholesaleEmail": "sales@petmatrix.com",
+        "address": "3001 Commerce St, Blacksburg, VA 24060, USA",
+        "notes": "Rawhide-free chew alternative; strong Amazon private-label competition.",
+        "notesZh": "无生皮咀嚼替代品；Amazon 上私有品牌竞争激烈。"
+      },
+      "source": {
+        "label": "Amazon SmartBones",
+        "url": "https://www.amazon.com/s?k=smartbones+mini",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "wellness-soft-puppy-bites",
+      "brand": "Wellness",
+      "product": "Soft Puppy Bites Lamb & Salmon Recipe (8 oz)",
+      "productZh": "幼犬软零食 羊肉三文鱼配方（8 oz）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B000H1217Y",
+      "asin": "B0018CIS0I",
+      "sku": "WELL-PUPPY-8",
+      "bsrRank": 35,
+      "price": {
+        "current": 7.99,
+        "currency": "USD"
+      },
+      "rating": 4.7,
+      "reviews": 11200,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Wellness Pet Company (Clearlake Capital)",
+        "companyZh": "Wellness 宠物公司（Clearlake 资本）",
+        "phone": "1-800-225-0904",
+        "email": "info@wellnesspetfood.com",
+        "website": "https://www.wellnesspetfood.com",
+        "wholesaleEmail": "sales@wellnesspetfood.com",
+        "address": "200 Ames Pond Dr, Tewksbury, MA 01876, USA",
+        "notes": "Natural/holistic positioning; puppy segment entry treat.",
+        "notesZh": "天然/整体健康定位；幼犬细分市场入门零食。"
+      },
+      "source": {
+        "label": "Amazon Wellness",
+        "url": "https://www.amazon.com/s?k=wellness+soft+puppy+bites",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "fruitables-pumpkin-apple",
+      "brand": "Fruitables",
+      "product": "Pumpkin & Apple Crunchy Dog Treats (7 oz)",
+      "productZh": "南瓜苹果脆片狗零食（7 oz）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B002QZ0X1C",
+      "asin": "B002QZ0X1C",
+      "sku": "FRUIT-PA-7",
+      "bsrRank": 42,
+      "price": {
+        "current": 6.49,
+        "currency": "USD"
+      },
+      "rating": 4.6,
+      "reviews": 7400,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Fruitables (Vetscience / Manna Pro)",
+        "companyZh": "Fruitables（Vetscience / Manna Pro）",
+        "phone": "1-800-690-9909",
+        "email": "info@fruitablespet.com",
+        "website": "https://www.fruitables.com",
+        "wholesaleEmail": "sales@fruitablespet.com",
+        "address": "707 Spirit 40 Park Dr, Chesterfield, MO 63005, USA",
+        "notes": "Low-calorie fruit/veg treat niche; under $7 impulse buy.",
+        "notesZh": "低卡果蔬零食细分；低于 $7 冲动购买。"
+      },
+      "source": {
+        "label": "Amazon Fruitables",
+        "url": "https://www.amazon.com/s?k=fruitables+pumpkin",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "old-mother-hubbard-classic",
+      "brand": "Old Mother Hubbard",
+      "product": "Classic P-Nuttier Biscuits (20 oz)",
+      "productZh": "经典花生酱饼干（20 oz）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0002AR0I8",
+      "asin": "B0002AR0I8",
+      "sku": "OMH-PN-20",
+      "bsrRank": 55,
+      "price": {
+        "current": 10.49,
+        "currency": "USD"
+      },
+      "rating": 4.5,
+      "reviews": 6800,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Old Mother Hubbard (Wellness Pet Company)",
+        "companyZh": "Old Mother Hubbard（Wellness 宠物公司）",
+        "phone": "1-800-225-0904",
+        "email": "info@wellnesspetfood.com",
+        "website": "https://www.oldmotherhubbard.com",
+        "wholesaleEmail": "sales@wellnesspetfood.com",
+        "address": "200 Ames Pond Dr, Tewksbury, MA 01876, USA",
+        "notes": "Heritage biscuit brand since 1926; same parent as Wellness.",
+        "notesZh": "1926 年创立的传统饼干品牌；与 Wellness 同一母公司。"
+      },
+      "source": {
+        "label": "Amazon Old Mother Hubbard",
+        "url": "https://www.amazon.com/s?k=old+mother+hubbard",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "barkbox-super-chewer",
+      "brand": "BarkBox",
+      "product": "Super Chewer Subscription Box (monthly, large dog)",
+      "productZh": "Super Chewer 订阅礼盒（月付，大型犬）",
+      "platform": "DTC",
+      "storeUrl": "https://www.barkbox.com/super-chewer",
+      "sku": "BARK-SC-LG-MO",
+      "price": {
+        "current": 35.0,
+        "original": 39.0,
+        "currency": "USD",
+        "discountPct": 10
+      },
+      "variant": "Subscription — 6/12-mo prepay discounts",
+      "rating": 4.3,
+      "reviews": 8900,
+      "shipFrom": "US",
+      "shippingNote": "Free shipping on all subscriptions",
+      "leadTimeDays": {
+        "min": 3,
+        "max": 7
+      },
+      "leadTimeNote": "DTC subscription — ships monthly",
+      "leadTimeSource": {
+        "label": "BarkBox shipping",
+        "url": "https://www.barkbox.com/faq",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Bark (BarkBox / Super Chewer)",
+        "companyZh": "Bark（BarkBox / Super Chewer 订阅）",
+        "phone": "1-855-501-2275",
+        "email": "happy@bark.co",
+        "website": "https://www.barkbox.com",
+        "wholesaleEmail": "partnerships@bark.co",
+        "address": "120 Broadway, New York, NY 10271, USA",
+        "notes": "Subscription treat/toy box; DTC-only; no traditional wholesale SKU.",
+        "notesZh": "订阅制零食/玩具礼盒；纯 DTC；无传统批发 SKU。"
+      },
+      "source": {
+        "label": "BarkBox Super Chewer",
+        "url": "https://www.barkbox.com/super-chewer",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    }
+  ],
+  "aov": {
+    "category": "dog-treats",
+    "categoryLabel": "Dog Treats & Chews",
+    "categoryLabelZh": "犬用零食与咀嚼物",
+    "buckets": [
+      {
+        "platform": "Amazon Mass Treats",
+        "median": 11,
+        "p25": 7,
+        "p75": 15,
+        "min": 5,
+        "max": 25,
+        "sample": 32
+      },
+      {
+        "platform": "Amazon Dental/Premium",
+        "median": 35,
+        "p25": 28,
+        "p75": 42,
+        "min": 20,
+        "max": 50,
+        "sample": 18
+      },
+      {
+        "platform": "DTC Subscription Box",
+        "median": 35,
+        "p25": 29,
+        "p75": 39,
+        "min": 25,
+        "max": 45,
+        "sample": 6
+      },
+      {
+        "platform": "Training Treats (small pack)",
+        "median": 10,
+        "p25": 7,
+        "p75": 13,
+        "min": 5,
+        "max": 16,
+        "sample": 22
+      }
+    ],
+    "insight": "Dog treats cluster into impulse buys under $12 (Milk-Bone, Pup-Peroni, Fruitables), dental chews at $30–$45 (Greenies dominates), training treats $8–$15 (Zuke's, Wellness), and subscription boxes at $29–$39/mo (BarkBox). Bundling treats with kibble lifts AOV 15–25% on Chewy.",
+    "insightZh": "犬零食分四档：$12 以下冲动购买（Milk-Bone、Pup-Peroni、Fruitables）、$30–$45 洁齿零食（Greenies 主导）、$8–$15 训练零食（Zuke's、Wellness）、$29–$39/月 订阅礼盒（BarkBox）。Chewy 上零食搭主粮可拉高客单价 15–25%。"
+  },
+  "bundles": [
+    {
+      "brand": "Greenies",
+      "product": "Value-size dental chews (36-count + 72-count)",
+      "productZh": "大包装洁齿零食（36 粒 + 72 粒装）",
+      "type": "bundle",
+      "detail": "Greenies pushes bulk dental packs on Amazon; 72-count at ~$0.90/treat vs 12-count at ~$1.50/treat — classic volume discount.",
+      "detailZh": "Greenies 在 Amazon 推大包装洁齿零食；72 粒装约 $0.90/粒 vs 12 粒装约 $1.50/粒 — 经典量贩折扣。",
+      "url": "https://www.greenies.com",
+      "source": {
+        "label": "Greenies",
+        "url": "https://www.greenies.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "brand": "BarkBox",
+      "product": "Super Chewer + BarkBox combo subscription",
+      "productZh": "Super Chewer + BarkBox 组合订阅",
+      "type": "bundle",
+      "detail": "Dual-box subscription for heavy chewers; 6-mo prepay saves 10%, 12-mo saves 15%.",
+      "detailZh": "重度咀嚼犬双盒订阅；预付 6 个月省 10%，12 个月省 15%。",
+      "url": "https://www.barkbox.com",
+      "source": {
+        "label": "BarkBox",
+        "url": "https://www.barkbox.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "brand": "Milk-Bone",
+      "product": "Variety pack biscuits (multi-flavor box)",
+      "productZh": "多口味饼干组合装",
+      "type": "single",
+      "detail": "Milk-Bone sells single-flavor 10 lb bags and multi-flavor variety packs; variety pack lifts trial conversion.",
+      "detailZh": "Milk-Bone 卖单口味 10 磅装和多口味组合装；组合装提升试用转化率。",
+      "url": "https://www.milkbone.com",
+      "source": {
+        "label": "Milk-Bone",
+        "url": "https://www.milkbone.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    }
+  ],
+  "installs": [
+    {
+      "category": "dog-treats",
+      "scenario": "Training treat portion control",
+      "scenarioZh": "训练零食份量控制",
+      "diyTime": "Ongoing",
+      "proTime": "N/A",
+      "laborCost": "$0",
+      "difficulty": "easy",
+      "needsElectrician": false,
+      "needsLicensedPlumber": false,
+      "notes": "Treats should be ≤10% of daily caloric intake. Break large treats into pea-sized pieces for training sessions.",
+      "notesZh": "零食热量应 ≤ 每日总热量的 10%。大零食切成小块用于训练。",
+      "source": {
+        "label": "AKC Treat Guidelines",
+        "url": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-treats/",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "category": "dog-treats",
+      "scenario": "Dental chew sizing & VOHC compliance",
+      "scenarioZh": "洁齿零食尺寸选择 + VOHC 认证",
+      "diyTime": "5 min",
+      "proTime": "N/A",
+      "laborCost": "$0",
+      "difficulty": "easy",
+      "needsElectrician": false,
+      "needsLicensedPlumber": false,
+      "notes": "Pick chew size matching dog weight class. VOHC-accepted products (Greenies) have clinical tartar reduction data.",
+      "notesZh": "按犬体重选择洁齿零食尺寸。VOHC 认证产品（Greenies）有临床牙垢减少数据。",
+      "source": {
+        "label": "VOHC Accepted Products",
+        "url": "https://vohc.org/accepted-products/",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "category": "dog-treats",
+      "scenario": "Subscription box unboxing & allergen check",
+      "scenarioZh": "订阅礼盒开箱 + 过敏原检查",
+      "diyTime": "10 min",
+      "proTime": "N/A",
+      "laborCost": "$0",
+      "difficulty": "moderate",
+      "needsElectrician": false,
+      "needsLicensedPlumber": false,
+      "notes": "BarkBox contents vary monthly; always check ingredient labels for chicken/beef/wheat allergens before giving.",
+      "notesZh": "BarkBox 每月内容不同；喂食前务必检查成分标签中的鸡肉/牛肉/小麦过敏原。",
+      "source": {
+        "label": "BarkBox FAQ",
+        "url": "https://www.barkbox.com/faq",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[project]
+name = "pet-research-scraper"
+version = "0.1.0"
+description = "Scraper + analyzer that populates the dog-food / dog-treat research site JSON layer."
+requires-python = ">=3.10"
+dependencies = [
+  "httpx>=0.27",
+  "beautifulsoup4>=4.12",
+  "lxml>=5.2",
+  "playwright>=1.47",
+  "pydantic>=2.7",
+  "python-dotenv>=1.0",
+  "google-api-python-client>=2.137",
+  "cursor-sdk>=0.1",
+  "praw>=7.7",
+  "pytrends>=4.9",
+  "rich>=13.7",
+]
+
+[project.optional-dependencies]
+dev = ["ruff>=0.6", "pytest>=8"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["sources", "analyze"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

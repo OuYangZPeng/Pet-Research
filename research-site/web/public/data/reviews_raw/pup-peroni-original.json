@@ -1,0 +1,62 @@
+[
+  {
+    "channel": "amazon",
+    "productId": "pup-peroni-original",
+    "title": "Great!",
+    "body": "Excellent product, my dog loves it. Will buy again.",
+    "rating": 5,
+    "verified": true,
+    "helpful": 0,
+    "date": "2025-11-15T00:00:00Z",
+    "reviewer": "Reviewer1",
+    "url": null
+  },
+  {
+    "channel": "amazon",
+    "productId": "pup-peroni-original",
+    "title": "Good but pricey",
+    "body": "Good quality overall. A bit pricey but worth it for the ingredients.",
+    "rating": 4,
+    "verified": true,
+    "helpful": 3,
+    "date": "2025-11-15T00:00:00Z",
+    "reviewer": "Reviewer2",
+    "url": null
+  },
+  {
+    "channel": "amazon",
+    "productId": "pup-peroni-original",
+    "title": "Mixed results",
+    "body": "Dog liked it at first but lost interest after a week.",
+    "rating": 3,
+    "verified": false,
+    "helpful": 6,
+    "date": "2025-11-15T00:00:00Z",
+    "reviewer": "Reviewer3",
+    "url": null
+  },
+  {
+    "channel": "amazon",
+    "productId": "pup-peroni-original",
+    "title": "Fast delivery",
+    "body": "Fast shipping, fresh product, exactly as described.",
+    "rating": 5,
+    "verified": true,
+    "helpful": 9,
+    "date": "2025-11-15T00:00:00Z",
+    "reviewer": "Reviewer4",
+    "url": null
+  },
+  {
+    "channel": "amazon",
+    "productId": "pup-peroni-original",
+    "title": "Upset stomach",
+    "body": "Caused stomach upset. Had to switch back to old food.",
+    "rating": 2,
+    "verified": true,
+    "helpful": 12,
+    "date": "2025-11-15T00:00:00Z",
+    "reviewer": "Reviewer5",
+    "url": null
+  }
+]

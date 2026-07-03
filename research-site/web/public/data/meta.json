@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-07-03T15:00:00Z",
+  "scriptVersion": "0.2.0-pet",
+  "sources": [
+    {
+      "label": "Amazon Best Sellers — Dry Dog Food",
+      "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Dry-Dog-Food/zgbs/pet-supplies/2975359011",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Amazon Best Sellers — Dog Treats",
+      "url": "https://www.amazon.com/Best-Sellers/zgbs/pet-supplies/2975481011",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Chewy — Dog Food",
+      "url": "https://www.chewy.com/b/food-332",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Chewy — Dog Treats",
+      "url": "https://www.chewy.com/b/treats-335",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "APPA National Pet Owners Survey 2025",
+      "url": "https://americanpetproducts.org/industry-trends-and-stats",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "AKC — Switching Dog Food Guide",
+      "url": "https://www.akc.org/expert-advice/nutrition/switching-dog-food/",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "The Farmer's Dog",
+      "url": "https://www.thefarmersdog.com",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Blue Buffalo",
+      "url": "https://www.bluebuffalo.com",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Purina Pro Plan",
+      "url": "https://www.purina.com",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Greenies (Mars Petcare)",
+      "url": "https://www.greenies.com",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "BarkBox",
+      "url": "https://www.barkbox.com",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Zak George (YouTube)",
+      "url": "https://www.youtube.com/@zakgeorge",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Rachel Fusaro (YouTube)",
+      "url": "https://www.youtube.com/@RachelFusaro",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "r/Dogfood (Reddit)",
+      "url": "https://www.reddit.com/r/Dogfood/",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "ExFreight — China to US Shipping Times",
+      "url": "https://www.exfreight.com/how-long-does-it-take-to-ship-from-china-to-the-us/",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    },
+    {
+      "label": "Chewy Shipping Policy",
+      "url": "https://www.chewy.com/app/content/shipping",
+      "fetchedAt": "2026-07-03T15:00:00Z"
+    }
+  ]
+}

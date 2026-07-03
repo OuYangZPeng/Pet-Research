@@ -1,0 +1,496 @@
+{
+  "dog-food": {
+    "category": "dog-food",
+    "label": "Dog Food",
+    "labelZh": "犬用主食",
+    "buckets": [
+      {
+        "id": "digestive-upset",
+        "label": "Digestive upset / loose stools on switch",
+        "labelZh": "换粮肠胃不适 / 软便",
+        "icon": "🤢",
+        "sampleQuote": "Had loose stools for the first week switching over.",
+        "quoteSku": "taste-of-wild-high-prairie",
+        "quoteUrl": null,
+        "quoteRating": 3,
+        "skuBreakdown": [
+          {
+            "sku": "blue-buffalo-life-protection-adult",
+            "count": 1
+          },
+          {
+            "sku": "purina-pro-plan-sport-30-18",
+            "count": 1
+          },
+          {
+            "sku": "taste-of-wild-high-prairie",
+            "count": 1
+          }
+        ],
+        "skuCount": 3,
+        "totalCount": 3
+      },
+      {
+        "id": "palatability-refusal",
+        "label": "Dog refuses to eat / low palatability",
+        "labelZh": "拒食 / 适口性差",
+        "icon": "🙅",
+        "sampleQuote": "My dog sniffed it and walked away. Switched back to old brand.",
+        "quoteSku": "royal-canin-medium-adult",
+        "quoteUrl": null,
+        "quoteRating": 2,
+        "skuBreakdown": [
+          {
+            "sku": "hills-science-diet-adult-large",
+            "count": 1
+          },
+          {
+            "sku": "royal-canin-medium-adult",
+            "count": 1
+          }
+        ],
+        "skuCount": 2,
+        "totalCount": 2
+      },
+      {
+        "id": "price-value",
+        "label": "Price too high for bag size",
+        "labelZh": "单磅价格过高",
+        "icon": "💰",
+        "sampleQuote": "Great food but $3/lb is hard to justify on a budget.",
+        "quoteSku": "orijen-original-dog",
+        "quoteUrl": null,
+        "quoteRating": 4,
+        "skuBreakdown": [
+          {
+            "sku": "orijen-original-dog",
+            "count": 1
+          },
+          {
+            "sku": "open-farm-grass-fed-beef",
+            "count": 1
+          },
+          {
+            "sku": "farmers-dog-fresh-beef",
+            "count": 1
+          }
+        ],
+        "skuCount": 3,
+        "totalCount": 3
+      },
+      {
+        "id": "packaging-damage",
+        "label": "Bag torn / stale kibble on arrival",
+        "labelZh": "包装破损 / 到货受潮",
+        "icon": "📦",
+        "sampleQuote": "Bag was torn on arrival and kibble was stale smelling.",
+        "quoteSku": "merrick-grain-free-texas-beef",
+        "quoteUrl": null,
+        "quoteRating": 2,
+        "skuBreakdown": [
+          {
+            "sku": "merrick-grain-free-texas-beef",
+            "count": 1
+          },
+          {
+            "sku": "nom-nom-chicken-casserole",
+            "count": 1
+          }
+        ],
+        "skuCount": 2,
+        "totalCount": 2
+      },
+      {
+        "id": "subscription-lock",
+        "label": "Hard to cancel subscription / auto-renew",
+        "labelZh": "订阅难取消 / 自动续费",
+        "icon": "🔒",
+        "sampleQuote": "Took 3 emails and a phone call to cancel the subscription.",
+        "quoteSku": "farmers-dog-fresh-beef",
+        "quoteUrl": null,
+        "quoteRating": 2,
+        "skuBreakdown": [
+          {
+            "sku": "farmers-dog-fresh-beef",
+            "count": 1
+          },
+          {
+            "sku": "nom-nom-chicken-casserole",
+            "count": 1
+          }
+        ],
+        "skuCount": 2,
+        "totalCount": 2
+      },
+      {
+        "id": "allergen-reaction",
+        "label": "Allergic reaction / skin issues",
+        "labelZh": "过敏反应 / 皮肤问题",
+        "icon": "⚠️",
+        "sampleQuote": "Broke out in hives after 2 weeks — chicken allergy we didn't know about.",
+        "quoteSku": "blue-buffalo-life-protection-adult",
+        "quoteUrl": null,
+        "quoteRating": 1,
+        "skuBreakdown": [
+          {
+            "sku": "blue-buffalo-life-protection-adult",
+            "count": 1
+          },
+          {
+            "sku": "merrick-grain-free-texas-beef",
+            "count": 1
+          }
+        ],
+        "skuCount": 2,
+        "totalCount": 2
+      }
+    ],
+    "skuList": [
+      {
+        "sku": "blue-buffalo-life-protection-adult",
+        "brand": "Blue Buffalo",
+        "product": "Life Protection Formula Adult Chicken & Brown Rice Dry Dog Food (30 lb)",
+        "productZh": "Life Protection 成犬鸡肉糙米配方干粮（30 磅）"
+      },
+      {
+        "sku": "purina-pro-plan-sport-30-18",
+        "brand": "Purina Pro Plan",
+        "product": "Sport Performance 30/20 Formula Dry Dog Food (35 lb)",
+        "productZh": "Sport 高性能 30/20 配方干粮（35 磅）"
+      },
+      {
+        "sku": "hills-science-diet-adult-large",
+        "brand": "Hill's Science Diet",
+        "product": "Adult Large Breed Chicken & Barley Recipe Dry Dog Food (35 lb)",
+        "productZh": "成犬大型犬鸡肉大麦配方干粮（35 磅）"
+      },
+      {
+        "sku": "royal-canin-medium-adult",
+        "brand": "Royal Canin",
+        "product": "Medium Adult Dry Dog Food (30 lb)",
+        "productZh": "中型成犬干粮（30 磅）"
+      },
+      {
+        "sku": "orijen-original-dog",
+        "brand": "Orijen",
+        "product": "Original Grain-Free Dry Dog Food (25 lb)",
+        "productZh": "Original 无谷高蛋白干粮（25 磅）"
+      },
+      {
+        "sku": "farmers-dog-fresh-beef",
+        "brand": "The Farmer's Dog",
+        "product": "Fresh Beef Recipe — Personalized Subscription (2-week trial)",
+        "productZh": "鲜食牛肉配方 — 个性化订阅（2 周试用装）"
+      },
+      {
+        "sku": "nom-nom-chicken-casserole",
+        "brand": "Nom Nom",
+        "product": "Chicken Cuisine Fresh Dog Food (7-pack, 8 oz portions)",
+        "productZh": "鸡肉鲜食配方（7 袋 × 8 oz 分装）"
+      },
+      {
+        "sku": "taste-of-wild-high-prairie",
+        "brand": "Taste of the Wild",
+        "product": "High Prairie Grain-Free Roasted Bison & Venison (28 lb)",
+        "productZh": "High Prairie 无谷烤野牛鹿肉配方（28 磅）"
+      },
+      {
+        "sku": "merrick-grain-free-texas-beef",
+        "brand": "Merrick",
+        "product": "Grain Free Texas Beef & Sweet Potato Recipe (22 lb)",
+        "productZh": "无谷德州牛肉红薯配方（22 磅）"
+      },
+      {
+        "sku": "open-farm-grass-fed-beef",
+        "brand": "Open Farm",
+        "product": "Grass-Fed Beef Recipe Dry Dog Food (22 lb)",
+        "productZh": "草饲牛肉配方干粮（22 磅）"
+      }
+    ],
+    "matrix": {
+      "blue-buffalo-life-protection-adult": {
+        "digestive-upset": 1,
+        "allergen-reaction": 1
+      },
+      "purina-pro-plan-sport-30-18": {
+        "digestive-upset": 1
+      },
+      "hills-science-diet-adult-large": {
+        "palatability-refusal": 1
+      },
+      "royal-canin-medium-adult": {
+        "palatability-refusal": 1
+      },
+      "orijen-original-dog": {
+        "price-value": 1
+      },
+      "farmers-dog-fresh-beef": {
+        "price-value": 1,
+        "subscription-lock": 1
+      },
+      "nom-nom-chicken-casserole": {
+        "packaging-damage": 1,
+        "subscription-lock": 1
+      },
+      "taste-of-wild-high-prairie": {
+        "digestive-upset": 1
+      },
+      "merrick-grain-free-texas-beef": {
+        "packaging-damage": 1,
+        "allergen-reaction": 1
+      },
+      "open-farm-grass-fed-beef": {
+        "price-value": 1
+      }
+    }
+  },
+  "dog-treats": {
+    "category": "dog-treats",
+    "label": "Dog Treats",
+    "labelZh": "犬用零食",
+    "buckets": [
+      {
+        "id": "too-hard",
+        "label": "Too hard for senior dogs / small breeds",
+        "labelZh": "对老年犬/小型犬太硬",
+        "icon": "🦷",
+        "sampleQuote": "My 12-year-old couldn't chew these, too hard.",
+        "quoteSku": "greenies-regular-dental",
+        "quoteUrl": null,
+        "quoteRating": 2,
+        "skuBreakdown": [
+          {
+            "sku": "greenies-regular-dental",
+            "count": 1
+          },
+          {
+            "sku": "smartbones-mini-peanut",
+            "count": 1
+          },
+          {
+            "sku": "old-mother-hubbard-classic",
+            "count": 1
+          }
+        ],
+        "skuCount": 3,
+        "totalCount": 3
+      },
+      {
+        "id": "allergen",
+        "label": "Contains allergens (wheat/chicken)",
+        "labelZh": "含过敏原（小麦/鸡肉）",
+        "icon": "⚠️",
+        "sampleQuote": "Broke out in hives — turns out it has chicken meal.",
+        "quoteSku": "pup-peroni-original",
+        "quoteUrl": null,
+        "quoteRating": 1,
+        "skuBreakdown": [
+          {
+            "sku": "milk-bone-original-biscuits",
+            "count": 1
+          },
+          {
+            "sku": "pup-peroni-original",
+            "count": 1
+          },
+          {
+            "sku": "wellness-soft-puppy-bites",
+            "count": 1
+          }
+        ],
+        "skuCount": 3,
+        "totalCount": 3
+      },
+      {
+        "id": "stale-fast",
+        "label": "Goes stale / soft quickly after opening",
+        "labelZh": "开封后易受潮变软",
+        "icon": "💧",
+        "sampleQuote": "Biscuits got soft within a week even in a sealed container.",
+        "quoteSku": "milk-bone-original-biscuits",
+        "quoteUrl": null,
+        "quoteRating": 3,
+        "skuBreakdown": [
+          {
+            "sku": "milk-bone-original-biscuits",
+            "count": 1
+          },
+          {
+            "sku": "old-mother-hubbard-classic",
+            "count": 1
+          },
+          {
+            "sku": "fruitables-pumpkin-apple",
+            "count": 1
+          }
+        ],
+        "skuCount": 3,
+        "totalCount": 3
+      },
+      {
+        "id": "overfeeding",
+        "label": "Easy to overfeed / high calorie",
+        "labelZh": "容易过量喂食 / 热量高",
+        "icon": "📈",
+        "sampleQuote": "Dog gained 3 lbs in a month from too many treats.",
+        "quoteSku": "pup-peroni-original",
+        "quoteUrl": null,
+        "quoteRating": 3,
+        "skuBreakdown": [
+          {
+            "sku": "pup-peroni-original",
+            "count": 1
+          },
+          {
+            "sku": "blue-buffalo-wilderness-trail",
+            "count": 1
+          },
+          {
+            "sku": "barkbox-super-chewer",
+            "count": 1
+          }
+        ],
+        "skuCount": 3,
+        "totalCount": 3
+      },
+      {
+        "id": "size-mismatch",
+        "label": "Wrong size for dog weight class",
+        "labelZh": "尺寸与犬体重不匹配",
+        "icon": "📏",
+        "sampleQuote": "Regular size is way too big for my 15 lb terrier.",
+        "quoteSku": "greenies-regular-dental",
+        "quoteUrl": null,
+        "quoteRating": 3,
+        "skuBreakdown": [
+          {
+            "sku": "greenies-regular-dental",
+            "count": 1
+          },
+          {
+            "sku": "smartbones-mini-peanut",
+            "count": 1
+          }
+        ],
+        "skuCount": 2,
+        "totalCount": 2
+      },
+      {
+        "id": "subscription-variance",
+        "label": "Subscription box contents vary / allergen risk",
+        "labelZh": "订阅礼盒内容不定 / 过敏风险",
+        "icon": "📦",
+        "sampleQuote": "This month's box had chicken treats — my dog is allergic.",
+        "quoteSku": "barkbox-super-chewer",
+        "quoteUrl": null,
+        "quoteRating": 2,
+        "skuBreakdown": [
+          {
+            "sku": "barkbox-super-chewer",
+            "count": 1
+          }
+        ],
+        "skuCount": 1,
+        "totalCount": 1
+      }
+    ],
+    "skuList": [
+      {
+        "sku": "greenies-regular-dental",
+        "brand": "Greenies",
+        "product": "Regular Dental Dog Treats (36 oz / 36-count)",
+        "productZh": "Regular 洁齿狗零食（36 oz / 36 粒装）"
+      },
+      {
+        "sku": "milk-bone-original-biscuits",
+        "brand": "Milk-Bone",
+        "product": "Original Dog Biscuits, Large (10 lb)",
+        "productZh": "原味狗饼干大号装（10 磅）"
+      },
+      {
+        "sku": "zukes-mini-naturals-peanut",
+        "brand": "Zuke's",
+        "product": "Mini Naturals Peanut Butter & Oats Training Treats (16 oz)",
+        "productZh": "Mini Naturals 花生酱燕麦训练零食（16 oz）"
+      },
+      {
+        "sku": "blue-buffalo-wilderness-trail",
+        "brand": "Blue Buffalo",
+        "product": "Wilderness Trail Treats Duck Biscuits (10 oz)",
+        "productZh": "Wilderness 鸭肉饼干零食（10 oz）"
+      },
+      {
+        "sku": "pup-peroni-original",
+        "brand": "Pup-Peroni",
+        "product": "Original Beef Flavor Dog Snacks (25 oz)",
+        "productZh": "原味牛肉风味狗零食（25 oz）"
+      },
+      {
+        "sku": "smartbones-mini-peanut",
+        "brand": "SmartBones",
+        "product": "Mini Peanut Butter Chews (16-pack)",
+        "productZh": "迷你花生酱咀嚼骨（16 根装）"
+      },
+      {
+        "sku": "wellness-soft-puppy-bites",
+        "brand": "Wellness",
+        "product": "Soft Puppy Bites Lamb & Salmon Recipe (8 oz)",
+        "productZh": "幼犬软零食 羊肉三文鱼配方（8 oz）"
+      },
+      {
+        "sku": "fruitables-pumpkin-apple",
+        "brand": "Fruitables",
+        "product": "Pumpkin & Apple Crunchy Dog Treats (7 oz)",
+        "productZh": "南瓜苹果脆片狗零食（7 oz）"
+      },
+      {
+        "sku": "old-mother-hubbard-classic",
+        "brand": "Old Mother Hubbard",
+        "product": "Classic P-Nuttier Biscuits (20 oz)",
+        "productZh": "经典花生酱饼干（20 oz）"
+      },
+      {
+        "sku": "barkbox-super-chewer",
+        "brand": "BarkBox",
+        "product": "Super Chewer Subscription Box (monthly, large dog)",
+        "productZh": "Super Chewer 订阅礼盒（月付，大型犬）"
+      }
+    ],
+    "matrix": {
+      "greenies-regular-dental": {
+        "too-hard": 1,
+        "size-mismatch": 1
+      },
+      "milk-bone-original-biscuits": {
+        "allergen": 1,
+        "stale-fast": 1
+      },
+      "zukes-mini-naturals-peanut": {},
+      "blue-buffalo-wilderness-trail": {
+        "overfeeding": 1
+      },
+      "pup-peroni-original": {
+        "allergen": 1,
+        "overfeeding": 1
+      },
+      "smartbones-mini-peanut": {
+        "too-hard": 1,
+        "size-mismatch": 1
+      },
+      "wellness-soft-puppy-bites": {
+        "allergen": 1
+      },
+      "fruitables-pumpkin-apple": {
+        "stale-fast": 1
+      },
+      "old-mother-hubbard-classic": {
+        "too-hard": 1,
+        "stale-fast": 1
+      },
+      "barkbox-super-chewer": {
+        "overfeeding": 1,
+        "subscription-variance": 1
+      }
+    }
+  }
+}

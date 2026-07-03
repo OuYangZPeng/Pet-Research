@@ -1,0 +1,603 @@
+{
+  "category": "dog-food",
+  "competitors": [
+    {
+      "id": "blue-buffalo-life-protection-adult",
+      "brand": "Blue Buffalo",
+      "product": "Life Protection Formula Adult Chicken & Brown Rice Dry Dog Food (30 lb)",
+      "productZh": "Life Protection 成犬鸡肉糙米配方干粮（30 磅）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0009X29WK",
+      "asin": "B0009X29WK",
+      "sku": "800421",
+      "bsrRank": 3,
+      "price": {
+        "current": 59.98,
+        "original": 64.99,
+        "currency": "USD",
+        "discountPct": 8
+      },
+      "rating": 4.7,
+      "reviews": 48200,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Blue Buffalo Company (General Mills Pet)",
+        "companyZh": "Blue Buffalo（通用磨坊宠物事业部）",
+        "phone": "1-800-919-2833",
+        "email": "consumerrelations@bluebuffalo.com",
+        "website": "https://www.bluebuffalo.com",
+        "wholesaleEmail": "sales@bluebuffalo.com",
+        "address": "300 Boston Post Rd W, Wilton, CT 06897, USA",
+        "notes": "US manufacturing; wholesale via distributor network + Chewy/Walmart retail.",
+        "notesZh": "美国本土生产；批发走经销商网络 + Chewy/Walmart 零售。"
+      },
+      "source": {
+        "label": "Amazon BSR Dry Dog Food",
+        "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Dry-Dog-Food/zgbs/pet-supplies/2975359011",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "purina-pro-plan-sport-30-18",
+      "brand": "Purina Pro Plan",
+      "product": "Sport Performance 30/20 Formula Dry Dog Food (35 lb)",
+      "productZh": "Sport 高性能 30/20 配方干粮（35 磅）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B0084FNPDC",
+      "asin": "B0084FNPDC",
+      "sku": "3810018135",
+      "bsrRank": 8,
+      "price": {
+        "current": 62.48,
+        "currency": "USD"
+      },
+      "rating": 4.8,
+      "reviews": 32100,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping · Subscribe & Save 5%",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Nestlé Purina PetCare",
+        "companyZh": "雀巢普瑞纳宠物护理",
+        "phone": "1-800-778-7462",
+        "email": "contactus@purina.nestle.com",
+        "website": "https://www.purina.com",
+        "wholesaleEmail": "purinaproplan@nestle.com",
+        "address": "1 Checkerboard Dr, St. Louis, MO 63164, USA",
+        "notes": "Pro Plan sold via vet channel + mass retail; S&S is key Amazon lever.",
+        "notesZh": "Pro Plan 走兽医渠道 + 大卖场；Amazon Subscribe & Save 是核心杠杆。"
+      },
+      "source": {
+        "label": "Amazon Pro Plan",
+        "url": "https://www.amazon.com/s?k=purina+pro+plan+sport",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "hills-science-diet-adult-large",
+      "brand": "Hill's Science Diet",
+      "product": "Adult Large Breed Chicken & Barley Recipe Dry Dog Food (35 lb)",
+      "productZh": "成犬大型犬鸡肉大麦配方干粮（35 磅）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B003MW77W6",
+      "asin": "B003MW77W6",
+      "sku": "604426",
+      "bsrRank": 12,
+      "price": {
+        "current": 74.99,
+        "original": 82.99,
+        "currency": "USD",
+        "discountPct": 10
+      },
+      "rating": 4.7,
+      "reviews": 28700,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Hill's Pet Nutrition (Colgate-Palmolive)",
+        "companyZh": "希尔思宠物营养（高露洁棕榄）",
+        "phone": "1-800-445-5777",
+        "email": "consumerrelations@hillspet.com",
+        "website": "https://www.hillspet.com",
+        "wholesaleEmail": "vetpartners@hillspet.com",
+        "address": "400 SW 8th Ave, Topeka, KS 66603, USA",
+        "notes": "Vet-recommended positioning; wholesale primarily through veterinary clinics.",
+        "notesZh": "兽医推荐定位；批发主走宠物医院渠道。"
+      },
+      "source": {
+        "label": "Amazon Hill's",
+        "url": "https://www.amazon.com/s?k=hills+science+diet+large+breed",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "royal-canin-medium-adult",
+      "brand": "Royal Canin",
+      "product": "Medium Adult Dry Dog Food (30 lb)",
+      "productZh": "中型成犬干粮（30 磅）",
+      "platform": "Chewy",
+      "storeUrl": "https://www.chewy.com/royal-canin-medium-adult/dp/52738",
+      "sku": "52738",
+      "price": {
+        "current": 79.99,
+        "original": 84.99,
+        "currency": "USD",
+        "discountPct": 6
+      },
+      "rating": 4.8,
+      "reviews": 12400,
+      "shipFrom": "US",
+      "shippingNote": "Free shipping over $49",
+      "leadTimeDays": {
+        "min": 2,
+        "max": 4
+      },
+      "leadTimeNote": "Chewy 1–2 day handling + FedEx Ground",
+      "leadTimeSource": {
+        "label": "Chewy shipping",
+        "url": "https://www.chewy.com/app/content/shipping",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Royal Canin USA (Mars Petcare)",
+        "companyZh": "皇家宠物食品美国（玛氏宠物护理）",
+        "phone": "1-800-592-6687",
+        "email": "consumer.service@royalcanin.com",
+        "website": "https://www.royalcanin.com/us",
+        "wholesaleEmail": "us.professional@royalcanin.com",
+        "address": "5000 W 134th St, Stilwell, KS 66085, USA",
+        "notes": "Breed-size segmentation strategy; strong Chewy auto-ship penetration.",
+        "notesZh": "按体型细分策略；Chewy 自动订购渗透率高。"
+      },
+      "source": {
+        "label": "Chewy Royal Canin",
+        "url": "https://www.chewy.com/brands/royal-canin-152",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "orijen-original-dog",
+      "brand": "Orijen",
+      "product": "Original Grain-Free Dry Dog Food (25 lb)",
+      "productZh": "Original 无谷高蛋白干粮（25 磅）",
+      "platform": "Chewy",
+      "storeUrl": "https://www.chewy.com/orijen-original-grain-free/dp/143012",
+      "sku": "143012",
+      "price": {
+        "current": 104.99,
+        "currency": "USD"
+      },
+      "rating": 4.6,
+      "reviews": 8900,
+      "shipFrom": "US",
+      "shippingNote": "Free shipping over $49",
+      "leadTimeDays": {
+        "min": 2,
+        "max": 4
+      },
+      "leadTimeNote": "Chewy standard",
+      "leadTimeSource": {
+        "label": "Chewy shipping",
+        "url": "https://www.chewy.com/app/content/shipping",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Champion Petfoods (Orijen / Acana)",
+        "companyZh": "Champion 宠物食品（Orijen / Acana）",
+        "phone": "1-877-939-0006",
+        "email": "info@championpetfoods.com",
+        "website": "https://www.orijenpetfoods.com",
+        "wholesaleEmail": "sales@championpetfoods.com",
+        "address": "1150 25th St NE, Auburn, AL 36830, USA",
+        "notes": "Premium biologically appropriate positioning; US kitchen in Auburn AL.",
+        "notesZh": "高端「生物适宜」定位；美国厨房位于阿拉巴马 Auburn。"
+      },
+      "source": {
+        "label": "Chewy Orijen",
+        "url": "https://www.chewy.com/brands/orijen-1524",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "farmers-dog-fresh-beef",
+      "brand": "The Farmer's Dog",
+      "product": "Fresh Beef Recipe — Personalized Subscription (2-week trial)",
+      "productZh": "鲜食牛肉配方 — 个性化订阅（2 周试用装）",
+      "platform": "DTC",
+      "storeUrl": "https://www.thefarmersdog.com",
+      "sku": "TFD-BEEF-TRIAL",
+      "price": {
+        "current": 2.0,
+        "original": 0,
+        "currency": "USD"
+      },
+      "variant": "Trial → ~$3–5/day ongoing",
+      "rating": 4.5,
+      "reviews": 6200,
+      "shipFrom": "US",
+      "shippingNote": "Free cold-chain shipping on subscription",
+      "leadTimeDays": {
+        "min": 2,
+        "max": 5
+      },
+      "leadTimeNote": "Fresh meal kit — insulated cold chain",
+      "leadTimeSource": {
+        "label": "Farmer's Dog FAQ",
+        "url": "https://www.thefarmersdog.com/faq",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "The Farmer's Dog",
+        "companyZh": "The Farmer's Dog 鲜食订阅",
+        "phone": "1-646-780-7957",
+        "email": "hello@thefarmersdog.com",
+        "website": "https://www.thefarmersdog.com",
+        "wholesaleEmail": "partners@thefarmersdog.com",
+        "address": "214 Sullivan St, New York, NY 10012, USA",
+        "notes": "DTC fresh-food pioneer; kitchens in NY/NJ/TX; no traditional wholesale.",
+        "notesZh": "DTC 鲜食先驱；厨房分布于 NY/NJ/TX；无传统批发模式。"
+      },
+      "source": {
+        "label": "The Farmer's Dog",
+        "url": "https://www.thefarmersdog.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "nom-nom-chicken-casserole",
+      "brand": "Nom Nom",
+      "product": "Chicken Cuisine Fresh Dog Food (7-pack, 8 oz portions)",
+      "productZh": "鸡肉鲜食配方（7 袋 × 8 oz 分装）",
+      "platform": "DTC",
+      "storeUrl": "https://www.nomnomnow.com",
+      "sku": "NOM-CHICKEN-7PK",
+      "price": {
+        "current": 29.9,
+        "currency": "USD"
+      },
+      "variant": "Subscription ~$15–25/week",
+      "rating": 4.4,
+      "reviews": 3100,
+      "shipFrom": "US",
+      "shippingNote": "Free shipping on first box",
+      "leadTimeDays": {
+        "min": 3,
+        "max": 6
+      },
+      "leadTimeNote": "Fresh refrigerated — FedEx overnight/2-day",
+      "leadTimeSource": {
+        "label": "Nom Nom shipping",
+        "url": "https://www.nomnomnow.com/faq",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Nom Nom (now part of Mars Petcare)",
+        "companyZh": "Nom Nom（玛氏宠物护理旗下）",
+        "phone": "1-855-966-6661",
+        "email": "support@nomnomnow.com",
+        "website": "https://www.nomnomnow.com",
+        "wholesaleEmail": "b2b@nomnomnow.com",
+        "address": "1800 Vine St, Los Angeles, CA 90028, USA",
+        "notes": "Fresh-portioned meals; acquired by Mars 2022; kitchens in Nashville + CA.",
+        "notesZh": "鲜食分装；2022 年被玛氏收购；厨房在 Nashville + 加州。"
+      },
+      "source": {
+        "label": "Nom Nom",
+        "url": "https://www.nomnomnow.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "taste-of-wild-high-prairie",
+      "brand": "Taste of the Wild",
+      "product": "High Prairie Grain-Free Roasted Bison & Venison (28 lb)",
+      "productZh": "High Prairie 无谷烤野牛鹿肉配方（28 磅）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B006BUW8ZC",
+      "asin": "B006BUW8ZC",
+      "sku": "1855",
+      "bsrRank": 5,
+      "price": {
+        "current": 54.99,
+        "original": 58.99,
+        "currency": "USD",
+        "discountPct": 7
+      },
+      "rating": 4.7,
+      "reviews": 55600,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping · Subscribe & Save 5%",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Diamond Pet Foods (Taste of the Wild)",
+        "companyZh": "Diamond 宠物食品（Taste of the Wild）",
+        "phone": "1-800-442-0402",
+        "email": "info@diamondpet.com",
+        "website": "https://www.tasteofthewildpetfood.com",
+        "wholesaleEmail": "sales@diamondpet.com",
+        "address": "1199 N 4th St, Meta, MO 65058, USA",
+        "notes": "Value-premium grain-free; manufactured in Meta MO + Gaston SC facilities.",
+        "notesZh": "性价比高端无谷定位；密苏里 Meta + 南卡 Gaston 工厂生产。"
+      },
+      "source": {
+        "label": "Amazon Taste of the Wild",
+        "url": "https://www.amazon.com/s?k=taste+of+the+wild+high+prairie",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "merrick-grain-free-texas-beef",
+      "brand": "Merrick",
+      "product": "Grain Free Texas Beef & Sweet Potato Recipe (22 lb)",
+      "productZh": "无谷德州牛肉红薯配方（22 磅）",
+      "platform": "Amazon",
+      "storeUrl": "https://www.amazon.com/dp/B00K5N11HS",
+      "asin": "B00K5N11HS",
+      "sku": "MERRICK-TX22",
+      "bsrRank": 18,
+      "price": {
+        "current": 69.98,
+        "currency": "USD"
+      },
+      "rating": 4.6,
+      "reviews": 14300,
+      "shipFrom": "US",
+      "shippingNote": "Prime Free Shipping",
+      "leadTimeDays": {
+        "min": 1,
+        "max": 2
+      },
+      "leadTimeNote": "Amazon Prime FBA",
+      "leadTimeSource": {
+        "label": "Amazon Prime",
+        "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GUMTVAYC9LXMRTGG",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Merrick Pet Care (Nestlé Purina)",
+        "companyZh": "Merrick 宠物护理（雀巢普瑞纳）",
+        "phone": "1-800-664-7387",
+        "email": "info@merrickpetcare.com",
+        "website": "https://www.merrickpetcare.com",
+        "wholesaleEmail": "sales@merrickpetcare.com",
+        "address": "100 S King St, Hereford, TX 79045, USA",
+        "notes": "Texas-made premium kibble; acquired by Purina 2015; Hereford TX kitchen.",
+        "notesZh": "德州制造高端干粮；2015 年被普瑞纳收购；Hereford TX 厨房。"
+      },
+      "source": {
+        "label": "Amazon Merrick",
+        "url": "https://www.amazon.com/s?k=merrick+grain+free+texas+beef",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "id": "open-farm-grass-fed-beef",
+      "brand": "Open Farm",
+      "product": "Grass-Fed Beef Recipe Dry Dog Food (22 lb)",
+      "productZh": "草饲牛肉配方干粮（22 磅）",
+      "platform": "DTC",
+      "storeUrl": "https://openfarmpet.com/products/grass-fed-beef-dry-dog-food",
+      "sku": "OF-GRASS-BEEF-22",
+      "price": {
+        "current": 89.99,
+        "original": 94.99,
+        "currency": "USD",
+        "discountPct": 5
+      },
+      "rating": 4.5,
+      "reviews": 2100,
+      "shipFrom": "US",
+      "shippingNote": "Free shipping over $50 · Subscribe 10% off",
+      "leadTimeDays": {
+        "min": 3,
+        "max": 6
+      },
+      "leadTimeNote": "DTC standard (US warehouse)",
+      "leadTimeSource": {
+        "label": "Open Farm shipping",
+        "url": "https://openfarmpet.com/pages/shipping",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      },
+      "supplier": {
+        "company": "Open Farm",
+        "companyZh": "Open Farm 透明溯源宠物粮",
+        "phone": "1-855-473-6726",
+        "email": "hello@openfarmpet.com",
+        "website": "https://openfarmpet.com",
+        "wholesaleEmail": "wholesale@openfarmpet.com",
+        "address": "250 King St E, Toronto, ON M5A 1K7, Canada (HQ); US fulfillment via NJ",
+        "notes": "Ethical sourcing + lot traceability QR; wholesale via independent pet stores.",
+        "notesZh": "道德采购 + 批次溯源 QR；批发走独立宠物店渠道。"
+      },
+      "source": {
+        "label": "Open Farm DTC",
+        "url": "https://openfarmpet.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    }
+  ],
+  "aov": {
+    "category": "dog-food",
+    "categoryLabel": "Dog Food (Dry & Fresh)",
+    "categoryLabelZh": "犬用主食（干粮 + 鲜食）",
+    "buckets": [
+      {
+        "platform": "Amazon Dry Kibble (mass)",
+        "median": 62,
+        "p25": 55,
+        "p75": 72,
+        "min": 45,
+        "max": 85,
+        "sample": 28
+      },
+      {
+        "platform": "Chewy Premium",
+        "median": 92,
+        "p25": 80,
+        "p75": 105,
+        "min": 70,
+        "max": 120,
+        "sample": 14
+      },
+      {
+        "platform": "DTC Fresh Subscription",
+        "median": 4,
+        "p25": 2,
+        "p75": 30,
+        "min": 2,
+        "max": 90,
+        "sample": 8
+      },
+      {
+        "platform": "DTC Premium Dry",
+        "median": 90,
+        "p25": 80,
+        "p75": 95,
+        "min": 75,
+        "max": 100,
+        "sample": 6
+      }
+    ],
+    "insight": "US dog food splits into 4 tiers: mass-market kibble on Amazon ($45–$85/30 lb bag), premium grain-free ($70–$120), DTC fresh subscriptions ($2 trial → $3–5/day), and ethical-premium dry like Open Farm ($80–$100). Subscribe & Save is the dominant Amazon discount lever (5–15%).",
+    "insightZh": "美国犬粮分四档：Amazon 大众干粮（$45–$85/30 磅）、高端无谷（$70–$120）、DTC 鲜食订阅（$2 试用 → 每天 $3–5）、道德溯源高端干粮如 Open Farm（$80–$100）。Subscribe & Save 是 Amazon 核心折扣杠杆（5–15%）。"
+  },
+  "bundles": [
+    {
+      "brand": "Chewy",
+      "product": "Autoship — kibble + treats bundle discount",
+      "productZh": "Autoship 自动订购 — 主粮 + 零食组合折扣",
+      "type": "bundle",
+      "detail": "Chewy Autoship gives 5% off first order, 35% off fifth; stacking kibble + treats in one shipment lifts retention and AOV.",
+      "detailZh": "Chewy Autoship 首单 5% 折扣、第五单 35%；主粮 + 零食合并发货提升留存率和客单价。",
+      "url": "https://www.chewy.com/app/content/autoship",
+      "source": {
+        "label": "Chewy Autoship",
+        "url": "https://www.chewy.com/app/content/autoship",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "brand": "Amazon",
+      "product": "Subscribe & Save — multi-pack kibble",
+      "productZh": "Subscribe & Save — 多包装主粮",
+      "type": "bundle",
+      "detail": "5–15% S&S discount on recurring kibble orders; most brands offer 30 lb + 5 lb trial size as entry SKU.",
+      "detailZh": "定期订购主粮享 5–15% S&S 折扣；多数品牌提供 30 磅 + 5 磅试用装作为入门 SKU。",
+      "url": "https://www.amazon.com/gp/subscribe-and-save",
+      "source": {
+        "label": "Amazon Subscribe & Save",
+        "url": "https://www.amazon.com/gp/subscribe-and-save",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "brand": "The Farmer's Dog",
+      "product": "Fresh food trial → full subscription",
+      "productZh": "鲜食试用 → 全量订阅",
+      "type": "single",
+      "detail": "$2 trial box converts to personalized weekly fresh meals; no retail SKU — pure subscription LTV play.",
+      "detailZh": "$2 试用盒转化为个性化每周鲜食配送；无零售 SKU — 纯订阅 LTV 模式。",
+      "url": "https://www.thefarmersdog.com",
+      "source": {
+        "label": "The Farmer's Dog",
+        "url": "https://www.thefarmersdog.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    }
+  ],
+  "installs": [
+    {
+      "category": "dog-food",
+      "scenario": "Kibble transition (7-day gradual switch)",
+      "scenarioZh": "干粮换粮（7 天渐进过渡）",
+      "diyTime": "7 days",
+      "proTime": "N/A",
+      "laborCost": "$0",
+      "difficulty": "easy",
+      "needsElectrician": false,
+      "needsLicensedPlumber": false,
+      "notes": "Mix 25% new / 75% old for days 1–2, then 50/50, then 75/25, then 100% new. Watch for GI upset.",
+      "notesZh": "第 1–2 天新粮 25% + 旧粮 75%，然后 50/50、75/25、最后 100% 新粮。注意肠胃反应。",
+      "source": {
+        "label": "AKC Switching Dog Food",
+        "url": "https://www.akc.org/expert-advice/nutrition/switching-dog-food/",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "category": "dog-food",
+      "scenario": "Fresh food subscription onboarding",
+      "scenarioZh": "鲜食订阅开通流程",
+      "diyTime": "15 min online",
+      "proTime": "N/A",
+      "laborCost": "$0",
+      "difficulty": "easy",
+      "needsElectrician": false,
+      "needsLicensedPlumber": false,
+      "notes": "Quiz → breed/weight/activity → personalized portion plan → cold-chain delivery. Fridge space needed.",
+      "notesZh": "问卷 → 品种/体重/运动量 → 个性化份量方案 → 冷链配送。需要冰箱储存空间。",
+      "source": {
+        "label": "Farmer's Dog onboarding",
+        "url": "https://www.thefarmersdog.com",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    },
+    {
+      "category": "dog-food",
+      "scenario": "Large-breed portioning & storage (30+ lb bags)",
+      "scenarioZh": "大型犬份量控制 + 大包装储存（30+ 磅）",
+      "diyTime": "Ongoing",
+      "proTime": "N/A",
+      "laborCost": "$15–$40 (airtight container)",
+      "difficulty": "moderate",
+      "needsElectrician": false,
+      "needsLicensedPlumber": false,
+      "notes": "30 lb bags need airtight bins; portion by weight not volume. Large breeds risk bloat if free-fed.",
+      "notesZh": "30 磅装需密封储存桶；按重量而非体积喂食。大型犬自由采食有胃扭转风险。",
+      "source": {
+        "label": "AKC Large Breed Feeding",
+        "url": "https://www.akc.org/expert-advice/nutrition/best-large-breed-dog-food/",
+        "fetchedAt": "2026-07-03T14:42:31Z"
+      }
+    }
+  ]
+}
